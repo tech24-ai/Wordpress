@@ -1,0 +1,98 @@
+.reserach-categories-data h5 {
+    display: inline-block;
+    margin: 0;
+}
+.post-categories-data h5 {
+    display: inline-block;
+    margin: 0;
+}
+.wpqa_login_social{
+    display: none !important;
+}
+.breadcrumb-left{
+    display: none !important;
+}
+.comment-respond{
+    display: none !important;
+}
+.market-researches-section .researh-catgeory-name{
+    cursor: pointer;
+}
+a.researh-catgeory-name {
+    color: #6e6e6e !important;
+}
+.blog-categories-section a.category_name{
+    cursor: pointer;
+    color: #6e6e6e !important;
+}
+/* header styling */
+.the-main-container.header-container {
+    display: flex;
+}
+.the-main-container.header-container .right-header.float_r {
+    order: 2;
+    flex: 1;
+    width: fit-content;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.the-main-container.header-container .left-header.float_l {
+    order: 1;
+    width: auto;
+    display: flex;
+    flex: 15;
+    justify-content: space-between;
+}
+a.button-default.button-sign-up {
+    display: none;
+}
+.the-main-container.header-container .left-header.float_l .mid-header.float_l {
+    width: auto !important;
+    padding-right: 15px;
+}
+.the-main-container.header-container .right-header.float_r .user-login-area {
+    display: flex;
+    align-items: center;
+}
+.the-main-container.header-container .right-header.float_r .user-login-area .notifications-area.user-notifications.float_r {
+    order: 1;
+    margin-top: 0;
+}
+.the-main-container.header-container .right-header.float_r .user-login-area .user-login {
+    width: auto;
+    margin-right: 5px;
+}
+.header-search.float_r {
+    display: none;
+}
+.the-main-container.header-container .right-header.float_r .button-default.button-sign-in {
+    width: 64px;
+    display: block;
+}
+.blog-listing-wrapper .blog-title .blog-name-title:hover {
+    color: #2d6ff7;
+}
+.wp-block-social-links .wp-social-link a {
+    padding: .25em;
+    display: inline-block;
+}
+.wp-block-social-link:hover {
+    transform: scale(1.1);
+}
+.wp-block-image figure.aligncenter.size-large {
+    text-align: center;
+}
+.breadcrumb-right {
+    display: none !important;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+@media only screen and (max-width: 600px) {
+    .mobile-aside-inner-inner {
+        padding: 30px !important;
+    }
+    .admin-bar .mobile-aside-close {
+        left: 30px !important;
+    }
+}

@@ -1,0 +1,23 @@
+<?php $posts_meta = array("category_post" => "category_post","title_post" => "title_post","author_by" => "author_by","post_date" => "post_date","post_comment" => "post_comment","post_views" => "post_views");
+$read_more = "on";
+$post_share = "on";
+$post_nav_category = "on";
+$post_tags = "on";
+$related_number = 4;
+$comment_in_related = "on";
+$date_in_related = "on";
+$post_style = "";
+$featured_image_style = "";
+$excerpt_type = "words";
+$featured_image = "";
+$post_excerpt = 40;
+$featured_image_width = $featured_image_height = 0;
+$sort_meta_title_image = array();
+$post_columns = "";
+$post_number = (isset($post_number) && $post_number != ""?$post_number:get_option("posts_per_page"));
+$category_post = (isset($posts_meta["category_post"]) && $posts_meta["category_post"] == "category_post"?"on":"");
+$title_post = (isset($posts_meta["title_post"]) && $posts_meta["title_post"] == "title_post"?"on":(isset($post_title)?$post_title:""));
+$author_by = (isset($posts_meta["author_by"]) && $posts_meta["author_by"] == "author_by"?"on":"");
+$post_date = (isset($posts_meta["post_date"]) && $posts_meta["post_date"] == "post_date"?"on":"");
+$post_comment = (isset($posts_meta["post_comment"]) && $posts_meta["post_comment"] == "post_comment"?"on":"");
+$post_views = (isset($posts_meta["post_views"]) && $posts_meta["post_views"] == "post_views"?"on":"");?>

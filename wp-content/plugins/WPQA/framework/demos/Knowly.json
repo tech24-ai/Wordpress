@@ -1,0 +1,38 @@
+[
+	{
+		"import_file_name": "Main demo",
+		"required_plugins": "WPQA/wpqa.php",
+		"import_file_url": "https://drive.2code.info/Himer/demo/Himer.xml",
+		"import_widget_file_url": "https://drive.2code.info/Himer/demo/Widgets.wie",
+		"import_options_file_url": "https://drive.2code.info/Himer/demo/Main.txt",
+		"import_preview_image_url": "https://drive.2code.info/Himer/demo/Main.png",
+		"preview_url": "https://2code.info/demo/themes/Himer/main/"
+	},
+	{
+		"import_file_name": "RTL",
+		"required_plugins": "WPQA/wpqa.php",
+		"import_file_url": "https://drive.2code.info/Himer/demo/RTL.xml",
+		"import_widget_file_url": "https://drive.2code.info/Himer/demo/Widgets.wie",
+		"import_options_file_url": "https://drive.2code.info/Himer/demo/rtl.txt",
+		"import_preview_image_url": "https://drive.2code.info/Himer/demo/rtl.png",
+		"preview_url": "https://2code.info/demo/themes/Himer/rtl/"
+	},
+	{
+		"import_file_name": "No Gender",
+		"required_plugins": "WPQA/wpqa.php",
+		"import_file_url": "https://drive.2code.info/Himer/demo/nogender.xml",
+		"import_widget_file_url": "https://drive.2code.info/Himer/demo/Widgets.wie",
+		"import_options_file_url": "https://drive.2code.info/Himer/demo/nogender.txt",
+		"import_preview_image_url": "https://drive.2code.info/Himer/demo/nogender.png",
+		"preview_url": "https://2code.info/demo/themes/Himer/nogender/"
+	},
+	{
+		"import_file_name": "Left Menu",
+		"required_plugins": "WPQA/wpqa.php",
+		"import_file_url": "https://drive.2code.info/Himer/demo/Leftmenu.xml",
+		"import_widget_file_url": "https://drive.2code.info/Himer/demo/Widgets.wie",
+		"import_options_file_url": "https://drive.2code.info/Himer/demo/Leftmenu.txt",
+		"import_preview_image_url": "https://drive.2code.info/Himer/demo/Leftmenu.png",
+		"preview_url": "https://2code.info/demo/themes/Himer/leftmenu/"
+	}
+]

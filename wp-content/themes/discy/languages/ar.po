@@ -1,0 +1,2959 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: discy\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-04-20 04:39-0300\n"
+"PO-Revision-Date: 2024-04-20 04:39-0300\n"
+"Last-Translator: \n"
+"Language-Team: 2codeThemes <2codeThemes@gmail.com>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-SearchPath-0: languages\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: admin/functions/main_functions.php:216 theme-parts/content.php:281
+msgid "Read"
+msgstr "اقرأ"
+
+#: admin/functions/main_functions.php:216 theme-parts/content.php:281
+msgid "Read more"
+msgstr "‫اقرأ المزيد"
+
+#: admin/functions/nav_menu.php:8
+msgid "You can use WP menu builder to build menus"
+msgstr "‫‫أستخدم القوائم لأضافة عناصر جديدة للقائمة"
+
+#: admin/functions/register_post.php:9
+msgid "Author"
+msgstr "العضو"
+
+#: admin/functions/register_post.php:10
+msgid "Format"
+msgstr "الصيغة"
+
+#: admin/functions/register_post.php:50 theme-parts/content-question.php:619
+msgid "View"
+msgid_plural "Views"
+msgstr[0] "‫الزيارات"
+msgstr[1] "زيارة"
+msgstr[2] "‫الزيارات"
+msgstr[3] "الزيارات"
+msgstr[4] "الزيارات"
+msgstr[5] "الزيارات"
+
+#: admin/functions/widget_functions.php:27
+msgid "First footer widget area"
+msgstr "‫‫منطقة الودجات الأولي في الفوتر"
+
+#: admin/functions/widget_functions.php:34
+msgid "Second footer widget area"
+msgstr "‫‫منطقة الودجات الثانية في الفوتر"
+
+#: admin/functions/widget_functions.php:41
+msgid "Third footer widget area"
+msgstr "‫‫منطقة الودجات الثالثة في الفوتر"
+
+#: admin/functions/widget_functions.php:48
+msgid "Fourth footer widget area"
+msgstr "‫‫منطقة الودجات الرابعة في الفوتر"
+
+#: admin/functions/widget_functions.php:55
+msgid "Fifth footer widget area"
+msgstr "‫‫منطقة الودجات الخامسة في الفوتر"
+
+#: admin/functions/widget_functions.php:62 includes/footer-code.php:37
+msgid "Sidebar"
+msgstr "القائمة الجانبية"
+
+#: admin/functions/widget_functions.php:69
+msgid "Sidebar 2"
+msgstr "القائمة الجانبية 2"
+
+#: admin/options.php:5
+msgid "Activate all the header?"
+msgstr ""
+
+#: admin/options.php:6
+msgid "Select ON to enable header."
+msgstr ""
+
+#: admin/options.php:19
+msgid "Header height"
+msgstr ""
+
+#: admin/options.php:20
+msgid "Choose the header height."
+msgstr ""
+
+#: admin/options.php:24
+msgid "Large"
+msgstr ""
+
+#: admin/options.php:24
+msgid "Small"
+msgstr ""
+
+#: admin/options.php:28
+msgid "Header style"
+msgstr ""
+
+#: admin/options.php:29
+msgid "Choose the header style."
+msgstr ""
+
+#: admin/options.php:33
+msgid "Normal"
+msgstr "طبيعي"
+
+#: admin/options.php:33
+msgid "Simple"
+msgstr ""
+
+#: admin/options.php:37
+msgid "Header skin"
+msgstr ""
+
+#: admin/options.php:38
+msgid "Choose the header skin."
+msgstr ""
+
+#: admin/options.php:42 admin/options.php:196 admin/options.php:236
+#: admin/options.php:286
+msgid "Dark"
+msgstr ""
+
+#: admin/options.php:42 admin/options.php:196 admin/options.php:236
+#: admin/options.php:286
+msgid "Light"
+msgstr ""
+
+#: admin/options.php:42
+msgid "Colored"
+msgstr ""
+
+#: admin/options.php:46
+msgid "Logo Custom Link URL"
+msgstr ""
+
+#: admin/options.php:47
+msgid ""
+"Enter a custom URL the site logo should link to. Leave empty to let logo "
+"link to the home page."
+msgstr ""
+
+#: admin/options.php:53
+msgid "Logo display"
+msgstr ""
+
+#: admin/options.php:54
+msgid "Choose the logo display."
+msgstr ""
+
+#: admin/options.php:58
+msgid "Display site title"
+msgstr ""
+
+#: admin/options.php:58
+msgid "Custom Image"
+msgstr "صورة مخصصة"
+
+#: admin/options.php:62
+msgid "Upload the logo"
+msgstr ""
+
+#: admin/options.php:63
+msgid "Upload your custom logo."
+msgstr ""
+
+#: admin/options.php:72
+msgid "Upload the retina logo"
+msgstr ""
+
+#: admin/options.php:73
+msgid "Upload your custom retina logo."
+msgstr ""
+
+#: admin/options.php:81
+msgid "Logo height"
+msgstr ""
+
+#: admin/options.php:92
+msgid "Logo width"
+msgstr ""
+
+#: admin/options.php:103
+msgid "Header search option"
+msgstr ""
+
+#: admin/options.php:104
+msgid "Select ON to enable header search."
+msgstr ""
+
+#: admin/options.php:111
+msgid "Activate the bigger search bar?"
+msgstr ""
+
+#: admin/options.php:112
+msgid "Select ON to enable header bigger search bar."
+msgstr ""
+
+#: admin/options.php:125
+msgid "Simple header button"
+msgstr ""
+
+#: admin/options.php:126
+msgid "Choose simple header button style from here."
+msgstr ""
+
+#: admin/options.php:129 header-parts/call-action.php:105
+#: header-parts/mobile-bar.php:50 header-parts/mobile-menu.php:29
+#: header-parts/slider.php:66
+msgid "Ask A Question"
+msgstr "أسأل سؤال"
+
+#: admin/options.php:130 header-parts/call-action.php:110
+#: header-parts/mobile-bar.php:56 header-parts/mobile-menu.php:34
+#: header-parts/slider.php:71
+msgid "Add A Poll"
+msgstr "إضافة استطلاع"
+
+#: admin/options.php:131
+msgid "Add A Post"
+msgstr "أضف مقال"
+
+#: admin/options.php:132
+msgid "Custom link"
+msgstr ""
+
+#: admin/options.php:145
+msgid "Open the page in same page or a new page?"
+msgstr ""
+
+#: admin/options.php:149
+msgid "Same page"
+msgstr ""
+
+#: admin/options.php:149
+msgid "New page"
+msgstr ""
+
+#: admin/options.php:153
+msgid "Type the button link"
+msgstr ""
+
+#: admin/options.php:159
+msgid "Type the button text"
+msgstr ""
+
+#: admin/options.php:177
+msgid "User icon profile or login and register buttons"
+msgstr ""
+
+#: admin/options.php:178
+msgid "Select ON to enable header user login area."
+msgstr ""
+
+#: admin/options.php:191
+msgid "Header user login style"
+msgstr ""
+
+#: admin/options.php:192
+msgid "Choose header user login style."
+msgstr ""
+
+#: admin/options.php:200
+msgid ""
+"The settings of header profile menu on the WordPress menus, on menu named "
+"Header Profile Menu"
+msgstr ""
+
+#: admin/options.php:217
+msgid "Header messages"
+msgstr ""
+
+#: admin/options.php:218
+msgid "Select ON to enable header messages."
+msgstr ""
+
+#: admin/options.php:231
+msgid "Header messages style"
+msgstr ""
+
+#: admin/options.php:232
+msgid "Choose header messages style."
+msgstr ""
+
+#: admin/options.php:240
+msgid "Header messages number"
+msgstr ""
+
+#: admin/options.php:241
+msgid "Put the header messages number."
+msgstr ""
+
+#: admin/options.php:262
+msgid ""
+"If you activate the discoura style, the notification icon on the header will "
+"not showing."
+msgstr ""
+
+#: admin/options.php:267
+msgid "Header notifications"
+msgstr ""
+
+#: admin/options.php:268
+msgid "Select ON to enable header notifications."
+msgstr ""
+
+#: admin/options.php:281
+msgid "Header notifications style"
+msgstr ""
+
+#: admin/options.php:282
+msgid "Choose header notifications style."
+msgstr "اختر نمط إشعارات الرأس."
+
+#: admin/options.php:290
+msgid "Header notifications number"
+msgstr ""
+
+#: admin/options.php:291
+msgid "Put the header notifications number."
+msgstr ""
+
+#: admin/options.php:305
+msgid "Fixed header option"
+msgstr ""
+
+#: admin/options.php:306
+msgid "Select ON to enable fixed header."
+msgstr ""
+
+#: admin/options.php:321
+msgid "Discy Change log"
+msgstr ""
+
+#: admin/options.php:328
+msgid "Mobile APP Change log"
+msgstr ""
+
+#: admin/options.php:335
+msgid "Support"
+msgstr ""
+
+#: admin/options.php:346
+msgid "Choose the your old theme if you use one of our themes before"
+msgstr ""
+
+#: admin/options.php:349
+msgid "No thing, just a new site"
+msgstr ""
+
+#: admin/options.php:350
+msgid "Ask Me"
+msgstr ""
+
+#: admin/options.php:351
+msgid "Himer"
+msgstr ""
+
+#: admin/options.php:358
+msgid "Import Setting"
+msgstr ""
+
+#: admin/options.php:359
+msgid "Put here the import setting"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:393
+#: admin/plugins/class-tgm-plugin-activation.php:913
+#: admin/plugins/class-tgm-plugin-activation.php:2619
+#: admin/plugins/class-tgm-plugin-activation.php:3671
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:394
+#: admin/plugins/class-tgm-plugin-activation.php:3245
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:395
+msgctxt "activated_successfully"
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:1020
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:1020
+#: admin/plugins/class-tgm-plugin-activation.php:1023
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:1023
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:1207
+#: admin/plugins/class-tgm-plugin-activation.php:3034
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2068
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2359
+msgid "Required"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2362
+msgid "Recommended"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2378
+msgid "WordPress Repository"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2381
+msgid "External Source"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2384
+msgid "Pre-Packaged"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2401
+msgid "Not Installed"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2405
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2407
+#: admin/updater/elitepack-config.php:168
+#: admin/updater/elitepack-config.php:178
+msgid "Active"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2413
+msgid "Required Update not Available"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2416
+msgid "Requires Update"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2419
+msgid "Update recommended"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2428
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2474
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2478
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2482
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2486
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2568
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2576
+msgid "Installed version:"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2584
+msgid "Minimum required version:"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2596
+msgid "Available version:"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2619
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2633
+msgid "Plugin"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2634
+msgid "Source"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2635
+msgid "Type"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2639
+msgid "Version"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2640
+msgid "Status"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2689
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2694
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2700
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2770
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2803
+msgid "Install"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2809
+msgid "Update"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2812
+msgid "Activate"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2843
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2845
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2886
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2888
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2994
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3020
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3038
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3244
+msgid "Plugin activation failed."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3584
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3587
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3589
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3593
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3595
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3596
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3598
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3601
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3603
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3604
+msgid "All installations have been completed."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3606
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3611
+msgid "Show Details"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3611
+msgid "Hide Details"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:26 admin/updater/elitepack-config.php:164
+msgid "Purchase a License"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:27
+msgid "Renew Support"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:28
+msgid "Need Help?"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:29
+msgid "Try Again"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:30
+#, php-format
+msgid "Register %s"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:31
+#, php-format
+msgid ""
+"Thank you for choosing %s! Your product must be registered to see the theme "
+"options, import our awesome demos, install bundled plugins, receive "
+"automatic updates, and access to support."
+msgstr ""
+
+#: admin/updater/elitepack-config.php:32 admin/updater/elitepack-config.php:163
+msgid "Register Now!"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:33
+msgid "Congratulations"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:34
+msgid ""
+"Your License is now registered!, theme options, demo import, and bundeled "
+"plugins is now unlocked."
+msgstr ""
+
+#: admin/updater/elitepack-config.php:35
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: admin/updater/elitepack-config.php:36
+msgid "Register the theme to unlock automatic updates."
+msgstr ""
+
+#: admin/updater/elitepack-config.php:37
+msgid "Renew your support to unlock automatic updates."
+msgstr ""
+
+#: admin/updater/elitepack-config.php:38
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:39
+#, php-format
+msgid ""
+"Your support will Expire in %s. Renew your license today and save 25%% to "
+"keep getting auto updates and premium support, remember purchasing a new "
+"license extends support for all licenses."
+msgstr ""
+
+#: admin/updater/elitepack-config.php:40
+msgid "Failed, try again later."
+msgstr ""
+
+#: admin/updater/elitepack-config.php:41
+#, php-format
+msgid "Did not updated, Your support expires on %s"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:42
+#, php-format
+msgid "Updated successfully, your support expires on %s"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:43
+#, php-format
+msgid "There is a new version of %1$s available."
+msgstr ""
+
+#: admin/updater/elitepack-config.php:44
+#, php-format
+msgid ""
+"There is a new version of %1$s available, %2$sView version %3$s details%4$s."
+msgstr ""
+
+#: admin/updater/elitepack-config.php:45
+msgid "update now"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:46
+msgid "License Deactivated Successfully."
+msgstr ""
+
+#: admin/updater/elitepack-config.php:47
+msgid "Cancel"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:48
+msgid "Skip & Switch"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:49
+msgid "Send & Switch"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:50
+#, php-format
+msgid "%s feedback"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:51
+msgid "May we have a little info about why you are switching?"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:82 admin/updater/elitepack-config.php:118
+msgid "Congratulations! Your product is registered now."
+msgstr ""
+
+#: admin/updater/elitepack-config.php:89 admin/updater/elitepack-config.php:137
+msgid "Welcome to"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:96
+msgid "Required plugin:"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:99
+msgctxt "Activate plugin link"
+msgid "Begin activating plugin"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:101
+msgctxt "Install plugin link"
+msgid "Begin installing plugin"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:117
+#: admin/updater/elitepack-config.php:122
+msgid "Thank you for choosing "
+msgstr ""
+
+#: admin/updater/elitepack-config.php:123
+msgid "Click on the button below to begin the registration process."
+msgstr ""
+
+#: admin/updater/elitepack-config.php:128
+msgid "See the theme options"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:129
+msgid "Import our awesome demos"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:130
+msgid "Install the included plugins"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:131
+msgid "Receive automatic updates"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:132
+msgid "Access to support"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:168
+msgid "License Status:"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:169
+msgid "Revoke License"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:175
+#, php-format
+msgid "Expiring! will expire on %s"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:181
+msgid "Expired"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:187
+msgid "Support Status:"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:188
+msgid "Refresh Expiration Date"
+msgstr ""
+
+#: admin/widgets.php:8
+msgid "Title"
+msgstr ""
+
+#: admin/widgets.php:14
+msgid "Image URL logo"
+msgstr ""
+
+#: admin/widgets.php:21
+msgid "Height of the logo"
+msgstr ""
+
+#: admin/widgets.php:30
+msgid "Width of the logo"
+msgstr ""
+
+#: admin/widgets.php:39
+msgid "Margin top for the logo"
+msgstr ""
+
+#: admin/widgets.php:48
+msgid "About text"
+msgstr ""
+
+#: admin/widgets.php:54
+msgid "Margin top for the text"
+msgstr ""
+
+#: admin/widgets/about.php:36
+msgid "About"
+msgstr "عن"
+
+#: admin/widgets/adv-120x240.php:47
+msgid "Adv 120x240"
+msgstr "أعلان 120x240"
+
+#: admin/widgets/adv-120x600.php:29
+msgid "Adv 120x600"
+msgstr "‫أعلان 120x600"
+
+#: admin/widgets/adv-125x125.php:47
+msgid "Adv 125x125"
+msgstr "‫أعلان 125x125"
+
+#: admin/widgets/adv-234x60.php:29
+msgid "Adv 234x60"
+msgstr "‫أعلان 234x60"
+
+#: admin/widgets/adv-250x250.php:29
+msgid "Adv 250x250"
+msgstr "‫أعلان 250x250"
+
+#: admin/widgets/facebook.php:28
+msgid "Facebook"
+msgstr "فيسبوك"
+
+#: admin/widgets/social.php:22
+msgid "Social media"
+msgstr "المنصات الأجتماعية"
+
+#: admin/widgets/social.php:60 admin/widgets/social.php:74
+msgid "Hello"
+msgstr "أهلا"
+
+#: admin/widgets/social.php:67
+msgid "Feed"
+msgstr "تغذية"
+
+#: admin/widgets/subscribe.php:24 admin/widgets/subscribe.php:29
+msgid "Subscribe"
+msgstr "أشترك"
+
+#: admin/widgets/subscribe.php:28
+msgid "Type Your Email"
+msgstr "أضف بريدك الإلكتروني"
+
+#: admin/widgets/video.php:34
+msgid "Video"
+msgstr "فيديو"
+
+#: category.php:10 taxonomy-question-category.php:14
+msgid "Category"
+msgstr "قسم"
+
+#: category.php:12 taxonomy-question-category.php:16
+msgid "Category feed"
+msgstr "تغذية القسم"
+
+#: comment-parts/comment-form.php:17
+msgid "Your Name"
+msgstr "أسمك"
+
+#: comment-parts/comment-form.php:18
+msgid "Email"
+msgstr "بريدك الإلكتروني"
+
+#: comment-parts/comment-form.php:19
+msgid "URL"
+msgstr "رابط الموقع"
+
+#: comment-parts/comment-form.php:30
+msgctxt "Answer textarea"
+msgid "Answer"
+msgstr "إجابة"
+
+#: comment-parts/comment-form.php:30
+msgctxt "Comment textarea"
+msgid "Comment"
+msgstr "تعليق"
+
+#: comment-parts/comment-form.php:37
+msgid "You must login to add an answer."
+msgstr "يجب عليك تسجيل الدخول لتتمكن من إضافة إجابة."
+
+#: comment-parts/comment-form.php:37
+msgid "You must login to add a new comment."
+msgstr "يجب عليك تسجيل الدخول لتتمكن من إضافة تعليق."
+
+#: comment-parts/comment-form.php:38
+msgid "Logged in as"
+msgstr "‫مسجل دخول بـ"
+
+#: comment-parts/comment-form.php:38
+msgid "Log out of this account"
+msgstr "تسجيل الخروج من هذا الحساب"
+
+#: comment-parts/comment-form.php:38
+msgid "Log out"
+msgstr "تسجيل الخروج"
+
+#: comment-parts/comment-form.php:39 comment-parts/comment-form.php:41
+msgid "Leave an answer"
+msgstr "أضف اجابة"
+
+#: comment-parts/comment-form.php:39
+msgid "Leave a comment"
+msgstr "‫اضف تعليق"
+
+#: comment-parts/comment-form.php:40
+#, php-format
+msgid "Leave an reply to %s"
+msgstr "‫‫أضف رد لـ %s"
+
+#: comment-parts/comment-form.php:40
+#, php-format
+msgid "Leave a comment to %s"
+msgstr "‫‫اضف تعليق لـ %s"
+
+#: comment-parts/comment-form.php:48
+msgid "Submit"
+msgstr "تنفيذ"
+
+#: comment-parts/comment-group-form.php:4
+msgid "Featured image"
+msgstr "‫الصورة المميزة"
+
+#: comment-parts/comment-group-form.php:8
+msgid "Select file"
+msgstr "اختر الملف"
+
+#: comment-parts/comment-group-form.php:9
+msgid "Browse"
+msgstr "‫تصفح"
+
+#: comment-parts/comment-group-form.php:25
+msgctxt "Comment group textarea"
+msgid "Comment"
+msgstr "تعليق"
+
+#: comment-parts/comment-group-form.php:30
+msgid "Click here to cancel reply."
+msgstr "اضغط هنا لإلغاء الرد‫."
+
+#: comment-parts/comment-group-form.php:33
+msgctxt "Comment group button"
+msgid "Comment"
+msgstr "تعليق"
+
+#: comments.php:14
+msgid "Please do not load this page directly. Thanks!"
+msgstr "لو سمحت لا تقم بتحمل هذه الصفحة مباشرة. شكرا!"
+
+#: comments.php:19
+msgid ""
+"This question is password protected. Enter the password to view answers."
+msgstr "‫‫هذا السؤال محمي. أدخل كلمة المرور لتشاهد الإجابات."
+
+#: comments.php:21
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "‫هذا المقال محمي. أدخل كلمة المرور لتشاهد التعليقات."
+
+#: comments.php:88 functions.php:510
+#, php-format
+msgid "%s Answer"
+msgid_plural "%s Answers"
+msgstr[0] "‫%s إجابة"
+msgstr[1] "‫%s إجابة"
+msgstr[2] "‫%s إجابتين"
+msgstr[3] "‫%s إجابات"
+msgstr[4] "‫%s إجابة"
+msgstr[5] "‫%s إجابة"
+
+#: comments.php:88 theme-parts/content-group.php:118
+#, php-format
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] "‫%s تعليق"
+msgstr[1] "‫%s تعليق"
+msgstr[2] "‫%s تعليقين"
+msgstr[3] "‫%s تعليقات"
+msgstr[4] "‫%s تعليق"
+msgstr[5] "‫%s تعليق"
+
+#: comments.php:95
+msgid "Voted"
+msgstr "التصويتات"
+
+#: comments.php:97
+msgid "Oldest"
+msgstr "الإقدم"
+
+#: comments.php:99
+msgid "Recent"
+msgstr "الأحدث"
+
+#: comments.php:101
+msgid "Random"
+msgstr "العشوائية"
+
+#: comments.php:180
+msgid "Sorry, you do not have permission to view answers."
+msgstr "عفوا، لا تملك صلاحية لمشاهدة الإجابات."
+
+#: comments.php:182
+msgid "Sorry, you do not have permission to view comments."
+msgstr "عفوا، لا يوجد لديك صلاحية لمشاهدة التعليقات."
+
+#: functions.php:126
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:438 functions.php:446
+msgid "Asked:"
+msgstr "سأل:"
+
+#: functions.php:440
+msgid "Posted:"
+msgstr "نشرت في:"
+
+#: functions.php:442 theme-parts/content-group.php:20
+#: theme-parts/loop-groups.php:85
+msgid "ago"
+msgstr "منذ"
+
+#: functions.php:448
+msgid "On:"
+msgstr "في:"
+
+#: functions.php:466
+#, php-format
+msgid "Posted in %1$s"
+msgstr "نشرت في %1$s"
+
+#: functions.php:475
+msgid "Asked to"
+msgstr "سأل إلي"
+
+#: functions.php:480
+msgid "In:"
+msgstr "في:"
+
+#: functions.php:514
+msgid "Comments: "
+msgstr "التعليقات: "
+
+#: functions.php:525
+msgid "Views:"
+msgstr "الزيارات:"
+
+#: header-parts/call-action.php:65
+msgid "Your browser does not support the video tag."
+msgstr "متصفحك لا يدعم الفيديو."
+
+#: header-parts/call-action.php:115 header-parts/mobile-bar.php:62
+#: header-parts/mobile-menu.php:39 header-parts/slider.php:76
+msgid "Add A New Post"
+msgstr "أضف مقالة جديدة"
+
+#: header-parts/call-action.php:122 header-parts/slider.php:83
+msgid "Login"
+msgstr "تسجيل الدخول"
+
+#: header-parts/call-action.php:130 header-parts/slider.php:91
+msgid "Create A New Account"
+msgstr "تسجيل عضوية جديدة"
+
+#: header-parts/logo.php:5 header-parts/logo.php:8 header-parts/logo.php:11
+#: header-parts/logo.php:14
+msgid "Logo"
+msgstr "اللوجو"
+
+#: header-parts/mobile-bar.php:7
+msgid "Open your app"
+msgstr "افتح التطبيق الخاص بك"
+
+#: header-parts/mobile-bar.php:11
+msgid "iPhone"
+msgstr ""
+
+#: header-parts/mobile-bar.php:14
+msgid "Android"
+msgstr ""
+
+#: header-parts/mobile-bar.php:27 header-parts/mobile-menu.php:94
+#: header-parts/slider.php:116 includes/header-code.php:310
+msgid "Search"
+msgstr "بحث"
+
+#: header-parts/mobile-bar.php:32 header-parts/mobile-menu.php:86
+msgid "Hit enter to search"
+msgstr "‫أضغط للبحث"
+
+#: header-parts/mobile-bar.php:68 header-parts/mobile-menu.php:44
+msgid "Create A New Group"
+msgstr "إنشاء مجموعة جديدة"
+
+#: header-parts/mobile-menu.php:12
+msgid "Mobile menu"
+msgstr "قائمة الموبيل"
+
+#: header-parts/mobile-menu.php:15
+msgid "Close"
+msgstr "غلق"
+
+#: header-parts/navbar-nav.php:6 includes/login-page.php:57
+msgid "Navigation"
+msgstr "القائمة"
+
+#: header-parts/slider.php:110 includes/header-code.php:303
+msgid "Type Search Words"
+msgstr "أكتب كلمات البحث"
+
+#: header-parts/slider.php:123
+msgid "What's your question?"
+msgstr "ما هو سؤالك؟"
+
+#: header-parts/slider.php:125 includes/header-code.php:269
+msgid "Ask Question"
+msgstr "أسأل سؤال"
+
+#: header-parts/slider.php:142
+msgid "Sign Up Here"
+msgstr "‫تسجيل جديد من هنا"
+
+#: header-parts/slider.php:155
+msgid "Sign In Now"
+msgstr "تسجيل دخول"
+
+#: includes/blog-header-footer.php:25
+msgid "Explore Our Blog"
+msgstr "‫أستكشف مدونتن"
+
+#: includes/footer-code.php:77
+msgid "Explore"
+msgstr "أكتشاف"
+
+#: includes/footer-code.php:171 includes/footer-code.php:233
+msgid "Footer"
+msgstr "الفوتر"
+
+#: includes/footer-code.php:288
+msgid "Ask a question"
+msgstr "أسأل سؤال"
+
+#: includes/header-code.php:139 includes/header-code.php:152
+msgid "Sign Up"
+msgstr "تسجيل"
+
+#: includes/header-code.php:144 includes/header-code.php:152
+msgid "Sign In"
+msgstr "تسجيل دخول"
+
+#: includes/header-code.php:254
+msgid "Welcome"
+msgstr "أهلا"
+
+#: includes/header-code.php:274
+msgid "Add Poll"
+msgstr "إضافة استطلاع"
+
+#: includes/header-code.php:279
+msgid "Add Post"
+msgstr "أضف مقال"
+
+#: includes/header-code.php:380 includes/header-code.php:392
+msgid "Edit profile"
+msgstr "تعديل الملف الشخصي"
+
+#: includes/header-code.php:405
+msgid "Required update plugin:"
+msgstr "تحديث مطلوب متوفر:"
+
+#: includes/header-code.php:406
+msgctxt "Update plugin link"
+msgid "Begin updating plugin"
+msgstr "البدء بتحديث الإضافة"
+
+#: includes/login-page.php:72
+msgid ""
+"This page must be redirected to home if you are logged in, but it's not "
+"redirecting for the admin."
+msgstr ""
+
+#: single-group.php:9
+msgid "Sorry, you blocked from this group."
+msgstr "تم حظرك من المجموعة."
+
+#: single-group.php:24
+msgid "Group rules"
+msgstr "قواعد المجموعة"
+
+#: single-group.php:25
+msgid "See more"
+msgstr "‫اقرأ المزيد"
+
+#: single-group.php:26
+msgid "See less"
+msgstr "قراءة أقل"
+
+#: single-group.php:80
+msgid "There are no posts yet."
+msgstr "لا يوجد مقالات حتي الآن."
+
+#: single-group.php:83
+msgid "Sorry, this is a private group."
+msgstr "عفوا هذه مجموعة خاصة."
+
+#: tag.php:9 taxonomy-question_tags.php:11
+msgid "Tag"
+msgstr "الوسم"
+
+#: tag.php:11 taxonomy-question_tags.php:13
+msgid "Tag feed"
+msgstr "تغذية الوسم"
+
+#: template-badges.php:35
+msgid "Points System"
+msgstr "نظام النقاط"
+
+#: template-badges.php:48 template-badges.php:99
+#: theme-parts/content-question.php:634
+msgid "Point"
+msgid_plural "Points"
+msgstr[0] "نقطة"
+msgstr[1] "النقاط"
+msgstr[2] "النقاط"
+msgstr[3] "النقاط"
+msgstr[4] "النقاط"
+msgstr[5] "النقاط"
+
+#: template-badges.php:75
+msgid "Badges System"
+msgstr "نظام الشارات"
+
+#: template-badges.php:95 theme-parts/show-categories.php:40
+msgid "Question"
+msgid_plural "Questions"
+msgstr[0] "سؤال"
+msgstr[1] "سؤال"
+msgstr[2] "سؤالين"
+msgstr[3] "أسئلة"
+msgstr[4] "سؤال"
+msgstr[5] "سؤال"
+
+#: template-badges.php:97
+msgid "Answer"
+msgid_plural "Answers"
+msgstr[0] "إجابة"
+msgstr[1] "إجابة"
+msgstr[2] "إجابتين"
+msgstr[3] "إجابات"
+msgstr[4] "إجابة"
+msgstr[5] "إجابة"
+
+#: theme-parts/content-group.php:27 theme-parts/content-question.php:184
+msgid "Pinned"
+msgstr "مثبت"
+
+#: theme-parts/content-group.php:44 theme-parts/content.php:272
+msgid "Delete"
+msgstr "حذف"
+
+#: theme-parts/content-group.php:104
+msgid "Unlike"
+msgstr "إلغاء الإعجاب"
+
+#: theme-parts/content-group.php:107
+msgctxt "Like group posts"
+msgid "Like"
+msgstr "أعجبني"
+
+#: theme-parts/content-group.php:113
+msgid "Like"
+msgid_plural "Likes"
+msgstr[0] "إعجاب"
+msgstr[1] "إعجاب"
+msgstr[2] "أعجبين"
+msgstr[3] "معجبين"
+msgstr[4] "معجب"
+msgstr[5] "معجب"
+
+#: theme-parts/content-group.php:126
+msgctxt "Comment button group posts"
+msgid "Comment"
+msgstr "تعليق"
+
+#: theme-parts/content-group.php:132
+msgid "Agree"
+msgstr "اوافق"
+
+#: theme-parts/content-group.php:136
+msgid "Unblock"
+msgstr "‫إلغاء الحظر"
+
+#: theme-parts/content-group.php:138
+msgid "Remove"
+msgstr "حذف"
+
+#: theme-parts/content-group.php:139
+msgid "Block"
+msgstr "حظر"
+
+#: theme-parts/content-group.php:174
+#, php-format
+msgid "View %s more comment"
+msgid_plural "View %s more comments"
+msgstr[0] "‫%s تعليق"
+msgstr[1] "عرض ‫%s تعليق إضافي"
+msgstr[2] "عرض ‫%s تعليقين إضافيين"
+msgstr[3] "عرض ‫%s تعليقات"
+msgstr[4] "عرض ‫%s تعليق"
+msgstr[5] "عرض ‫%s تعليق"
+
+#: theme-parts/content-question.php:77 theme-parts/content-question.php:380
+msgid "Sorry it's a private question."
+msgstr "عفوا، هذا سؤال خاص."
+
+#: theme-parts/content-question.php:113
+msgid "Anonymous"
+msgstr "مجهول"
+
+#: theme-parts/content-question.php:117
+msgid "[Deleted User]"
+msgstr "‫[عضو محذوف]"
+
+#: theme-parts/content-question.php:223
+msgid "Poll"
+msgstr "التصويت"
+
+#: theme-parts/content-question.php:480 theme-parts/content-question.php:487
+msgid "Attachment"
+msgstr "المرفق"
+
+#: theme-parts/content-question.php:539
+msgid "Read less"
+msgstr "قراءة أقل"
+
+#: theme-parts/content-question.php:623
+msgid "Vote"
+msgid_plural "Votes"
+msgstr[0] "‫صوت"
+msgstr[1] "‫صوت"
+msgstr[2] "‫صوتين"
+msgstr[3] "أصوات"
+msgstr[4] "‫صوت"
+msgstr[5] "‫صوت"
+
+#: theme-parts/content-question.php:653
+msgid "Unfollow the question"
+msgstr "‫ألغاء متابعة السؤال"
+
+#: theme-parts/content-question.php:653 theme-parts/content-question.php:656
+msgid "Follow the question"
+msgstr "‫تابع السؤال"
+
+#: theme-parts/content-question.php:660 theme-parts/show-categories.php:43
+#: theme-parts/show-categories.php:59 theme-parts/show-tags.php:14
+msgid "Follower"
+msgid_plural "Followers"
+msgstr[0] "متابعين"
+msgstr[1] "متابع"
+msgstr[2] "‫المتابعين"
+msgstr[3] "‫المتابعين"
+msgstr[4] "‫المتابعين"
+msgstr[5] "‫المتابعين"
+
+#: theme-parts/content-question.php:681 theme-parts/content-question.php:683
+msgid "Add this question to favorites"
+msgstr "أضف السؤال في المفضلة"
+
+#: theme-parts/content-question.php:681
+msgid "Remove this question of my favorites"
+msgstr "أحذف السؤال من المفضلة"
+
+#: theme-parts/content-question.php:700
+msgid "Share"
+msgstr "شارك"
+
+#: theme-parts/content-question.php:709
+msgctxt "Answer button on question"
+msgid "Answer"
+msgstr "إجابة"
+
+#: theme-parts/content-question.php:777
+msgid "Sorry, you do not have permission to view questions."
+msgstr "عفوا، لا يوجد لديك صلاحية لمشاهدة السؤال."
+
+#: theme-parts/content.php:2
+msgid "Meta and title"
+msgstr ""
+
+#: theme-parts/content.php:2
+msgid "Image"
+msgstr ""
+
+#: theme-parts/content.php:259
+#, php-format
+msgid "Edit %s"
+msgstr "تعديل %s"
+
+#: theme-parts/content.php:269
+msgid "Edit"
+msgstr "تعديل"
+
+#: theme-parts/content.php:310
+msgid "About the author"
+msgstr "عن العضو"
+
+#: theme-parts/content.php:311
+msgid "Next and Previous articles"
+msgstr "المقالات السابقة والتالية"
+
+#: theme-parts/content.php:312
+msgid "Advertising"
+msgstr "الأعلانات"
+
+#: theme-parts/content.php:313
+msgid "Related articles"
+msgstr "مقالات ذات صلة"
+
+#: theme-parts/content.php:314
+msgid "Comments"
+msgstr "تعليقات"
+
+#: theme-parts/content.php:343
+msgid "Previous article"
+msgstr "المقالات السابقة"
+
+#: theme-parts/content.php:355
+msgid "Next article"
+msgstr "المقالات القادمة"
+
+#: theme-parts/content.php:377
+msgid "Sorry, you do not have permission to view posts."
+msgstr "عفوا، لا يوجد لديك صلاحية لمشاهدة المقالات."
+
+#: theme-parts/loop-groups.php:74
+msgid "Public group"
+msgstr "مجموعة عامة"
+
+#: theme-parts/loop-groups.php:74
+msgid "Private group"
+msgstr "مجموعة خاصة"
+
+#: theme-parts/loop-groups.php:77
+#, php-format
+msgid "%s Post"
+msgid_plural "%s Posts"
+msgstr[0] "‫%s مقال"
+msgstr[1] "‫%s مقال"
+msgstr[2] "‫%s مقالين"
+msgstr[3] "‫%s مقالات"
+msgstr[4] "‫%s مقال"
+msgstr[5] "‏‫%s مقال"
+
+#: theme-parts/loop-groups.php:78
+#, php-format
+msgid "%s User"
+msgid_plural "%s Users"
+msgstr[0] "‫%s عضو"
+msgstr[1] "‫%s عضو"
+msgstr[2] "‫%s عضوين"
+msgstr[3] "‫%s أعضاء"
+msgstr[4] "‏‫%s عضو"
+msgstr[5] "‫‏‫%s عضو"
+
+#: theme-parts/loop-groups.php:83
+#, php-format
+msgid "%s View"
+msgid_plural "%s Views"
+msgstr[0] "‫%s زيارة"
+msgstr[1] "‫%s زيارة"
+msgstr[2] "‫%s زيارتين"
+msgstr[3] "‫%s زيارات"
+msgstr[4] "‫%s زيارة"
+msgstr[5] "‫%s زيارة"
+
+#: theme-parts/loop-groups.php:104
+msgid "There are no groups yet."
+msgstr "لا توجد مجموعات بعد."
+
+#: theme-parts/related.php:122
+msgid "Related Questions"
+msgstr "‫أسئلة ذات صلة"
+
+#: theme-parts/related.php:122
+msgid "Related Posts"
+msgstr "آخر المقالات"
+
+#: theme-parts/show-categories.php:32 theme-parts/show-categories.php:39
+#: theme-parts/show-categories.php:54 theme-parts/show-tags.php:10
+#: theme-parts/show-tags.php:27
+#, php-format
+msgid "View all questions under %s"
+msgstr "‫عرض كل الأسئلة تحت %s"
+
+#: theme-parts/show-categories.php:54 theme-parts/show-tags.php:27
+#, php-format
+msgid "View all posts under %s"
+msgstr "‫عرض كل المقالات تحت %s"
+
+#: theme-parts/show-tags.php:40
+#, php-format
+msgid "%s asked today"
+msgstr "‫%s سألت اليوم"
+
+#: theme-parts/show-tags.php:41
+#, php-format
+msgid "%s this week"
+msgstr "‫%s هذا الاسبوع"
+
+#: theme-parts/show-tags.php:42
+#, php-format
+msgid "%s this month"
+msgstr "‫%s هذا الشهر"
+
+#~ msgid "Ask a Question"
+#~ msgstr "أسأل سؤال"
+
+#, php-format
+#~ msgctxt "post author"
+#~ msgid "%s"
+#~ msgstr "‫%s"
+
+#~ msgid "Social counter"
+#~ msgstr "عداد المنصات الأجتماعية"
+
+#~ msgid "Subscriber"
+#~ msgid_plural "Subscribers"
+#~ msgstr[0] "مشتركين"
+#~ msgstr[1] "مشترك"
+#~ msgstr[2] "مشتركين"
+#~ msgstr[3] "مشتركين"
+#~ msgstr[4] "مشترك"
+#~ msgstr[5] "مشترك"
+
+#~ msgid "Twitter"
+#~ msgstr "توتير"
+
+#, php-format
+#~ msgid "about %s ago"
+#~ msgstr "حوالي %s فائتة"
+
+#~ msgid "Questions"
+#~ msgstr "الأسئلة"
+
+#~ msgid "Posts"
+#~ msgstr "المقالات"
+
+#, php-format
+#~ msgid "Sorry, No %1$s Found."
+#~ msgstr "عفوا، لا توجد %1$s."
+
+#, php-format
+#~ msgid "Ready to publish your first post? %1$s Get started here %2$s."
+#~ msgstr "‫‫جاهز لنشر أول منشور %1$s ابدأ من هنا %2$s."
+
+#~ msgid "Sorry, No Results Found."
+#~ msgstr "عفوا، لا يوجد نتائج."
+
+#~ msgid ""
+#~ "Sorry, but nothing matched your search terms. Please try again with some "
+#~ "different keywords."
+#~ msgstr "عفوا، لا يوجد نتائج متطابقة، حاول البحث بكلمات مختلفة."
+
+#~ msgid ""
+#~ "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+#~ "searching can help."
+#~ msgstr ""
+#~ "يبدو أنه لا يمكننا العثور على ما تبحث عنه. ربما البحث يمكن أن يساعد."
+
+#~ msgid "404"
+#~ msgstr "404"
+
+#~ msgid "Oops! Page Not Found."
+#~ msgstr "عفوا، لا توجد هذه الصفحة."
+
+#~ msgid "Discover Popular Users"
+#~ msgstr "‫أكتشف الأعضاء الأكثر شهرة"
+
+#, php-format
+#~ msgid "Choose %s or more users to continue."
+#~ msgstr "‫أختار %s أو أكثر من الأعضاء لتستطيع الإستمرار."
+
+#~ msgid "More Users"
+#~ msgstr "المزيد من الأعضاء"
+
+#~ msgid "Discover Popular Categories"
+#~ msgstr "‫أكتشف الأقسام الأكثر شهرة"
+
+#, php-format
+#~ msgid "Choose %s or more categories to continue."
+#~ msgstr "‫أختار %s أو أكثر من الأقسام لتستطيع الإستمرار."
+
+#~ msgid "More Categories"
+#~ msgstr "المزيد من الأقسام"
+
+#~ msgid "Discover Popular Tags"
+#~ msgstr "‫أكتشف الكلمات الدليلية الأكثر شهرة"
+
+#, php-format
+#~ msgid "Choose %s or more tags to continue."
+#~ msgstr "‫أختار %s أو أكثر من الكلمات الدليلية لتستطيع الإستمرار."
+
+#~ msgid "More tags"
+#~ msgstr "المزيد من الكلمات الدليلية"
+
+#~ msgid "Click here to continue."
+#~ msgstr "قم بالضغط للإستمرار."
+
+#~ msgid "Complete your following above to continue."
+#~ msgstr "قم بإنهاء متابعة لتستطيع الإستمرار."
+
+#~ msgid "Sorry, log in to see the content."
+#~ msgstr "آسف، سجل الدخول لرؤية المحتوى."
+
+#~ msgid "New Answers"
+#~ msgstr "الإجابات الجديدة"
+
+#~ msgid "Old Answers"
+#~ msgstr "الإجابات القديمة"
+
+#~ msgid "Sorry it is a private answer."
+#~ msgstr "عفوا هذه إجابة خاصة."
+
+#~ msgid "There are no answers yet."
+#~ msgstr "لا يوجد إجابات حتي الآن."
+
+#~ msgid "There are no comments yet."
+#~ msgstr "لا يوجد تعليقات حتي الآن."
+
+#~ msgid "You must login to see your feed."
+#~ msgstr "يجب عليك تسجيل الدخول لمشاهدة خلاصتك."
+
+#~ msgid "There are no questions at favorite yet."
+#~ msgstr "لا يوجد أسئلة في المفضلة حتي الآن."
+
+#~ msgid "There are no questions you followed yet."
+#~ msgstr "لا يوجد أسئلة تتابعها حتي الآن."
+
+#~ msgid "Latest"
+#~ msgstr "الاحدث"
+
+#~ msgid "Articles"
+#~ msgstr "مقالات"
+
+#~ msgid "There are no questions yet."
+#~ msgstr "لا يوجد أسئلة حتي الآن."
+
+#~ msgid "Back To Homepage"
+#~ msgstr "الرجوع للصفحة الرئيسية"
+
+#~ msgid "All Questions"
+#~ msgstr "كل الأسئلة"
+
+#~ msgid "Sorry, this page is not found."
+#~ msgstr "عفوا، هذه الصفحة غير موجودة."
+
+#~ msgid "Recent Questions"
+#~ msgstr "آخر الأسئلة"
+
+#~ msgid "Questions For You"
+#~ msgstr "أسئلة لك"
+
+#~ msgid "Most Answered"
+#~ msgstr "الأكثر إجابات"
+
+#~ msgid "Answers"
+#~ msgstr "الإجابات"
+
+#~ msgid "Answers You Might Like"
+#~ msgstr "إجابات قد تعجبك"
+
+#~ msgid "Answers For You"
+#~ msgstr "إجابات لك"
+
+#~ msgid "No Answers"
+#~ msgstr "لا إجابات"
+
+#~ msgid "Most Visited"
+#~ msgstr "الأكثر زيارة"
+
+#~ msgid "Most Voted"
+#~ msgstr "الأكثر تقيما"
+
+#~ msgid "New Questions"
+#~ msgstr "الأسئلة الجديدة"
+
+#~ msgid "Sticky Questions"
+#~ msgstr "‫الأسئلة المثبتة"
+
+#~ msgid "Polls"
+#~ msgstr "‫التصويتات"
+
+#~ msgid "Followed Questions"
+#~ msgstr "‫‫الأسئلة المتابعة"
+
+#~ msgid "Favorite Questions"
+#~ msgstr "‫الأسئلة ‫‫المفضلة"
+
+#~ msgid "Poll feed"
+#~ msgstr "تغذية التصويت"
+
+#~ msgid "Recent Posts"
+#~ msgstr "أخر المقالات"
+
+#~ msgid "Most Visited Posts"
+#~ msgstr "أكثر المقالات زيارة"
+
+#~ msgid "Bump Question"
+#~ msgstr "سؤال مرفوع"
+
+#~ msgid "Feed With Time"
+#~ msgstr "‫الأسئلة المخصصة بالوقت"
+
+#~ msgid "Recent Questions With Time"
+#~ msgstr "آخر الأسئلة بالوقت"
+
+#~ msgid "Questions For You With Time"
+#~ msgstr "أسئلة لك بالوقت"
+
+#~ msgid "Most Answered With Time"
+#~ msgstr "الأكثر إجابات بالوقت"
+
+#~ msgid "Answers With Time"
+#~ msgstr "‫‫‫‫‫الإجابات بالوقت"
+
+#~ msgid "Answers You Might Like With Time"
+#~ msgstr "إجابات قد تعجبك مع مرور الوقت"
+
+#~ msgid "Answers For You With Time"
+#~ msgstr "إجابات لك بالوقت"
+
+#~ msgid "No Answers With Time"
+#~ msgstr "لا إجابات بالوقت"
+
+#~ msgid "Most Visited With Time"
+#~ msgstr "الأكثر زيارة بالوقت"
+
+#~ msgid "Most Voted With Time"
+#~ msgstr "الأكثر تقيما بالوقت"
+
+#~ msgid "Random With Time"
+#~ msgstr "‫الأسئلة العشوائية بالوقت"
+
+#~ msgid "New Questions With Time"
+#~ msgstr "الأسئلة الجديدة بالوقت"
+
+#~ msgid "Sticky Questions With Time"
+#~ msgstr "‫الأسئلة المثبتة بالوقت"
+
+#~ msgid "Polls With Time"
+#~ msgstr "أسئلة التصويتات بالوقت"
+
+#~ msgid "Followed Questions With Time"
+#~ msgstr "الأسئلة المتابعه بالوقت"
+
+#~ msgid "Favorite Questions With Time"
+#~ msgstr "الأسئلة ‫‫المفضلة بالوقت"
+
+#~ msgid "Poll feed With Time"
+#~ msgstr "تغذية التصويت بالوقت"
+
+#~ msgid "Recent Posts With Time"
+#~ msgstr "أخر المقالات بالوقت"
+
+#~ msgid "Most Visited Posts With Time"
+#~ msgstr "أكثر المقالات زيارة بالوقت"
+
+#~ msgid "Bump Question With Time"
+#~ msgstr "الأسئلة المرفوعة بالوقت"
+
+#~ msgid "Show All Categories"
+#~ msgstr "عرض كل الأقسام"
+
+#~ msgid "All Categories"
+#~ msgstr "كل الاقسام"
+
+#~ msgid "Icon class"
+#~ msgstr "‫Icon class"
+
+#~ msgid "User Profile"
+#~ msgstr "الملف الشخصي"
+
+#~ msgid "Edit Profile"
+#~ msgstr "تعديل الملف الشخصي"
+
+#~ msgid "Pending Questions"
+#~ msgstr "‫الأسئلة المعلقة"
+
+#~ msgid "Pending Posts"
+#~ msgstr "‫المقالات المعلقة"
+
+#~ msgid "Referrals"
+#~ msgstr "‫الإحالات"
+
+#~ msgid "Messages"
+#~ msgstr "‫الرسائل"
+
+#~ msgid "Followed"
+#~ msgstr "‫المتابعة"
+
+#~ msgid "Favorites"
+#~ msgstr "‫المفضلة"
+
+#~ msgid "Followers Questions"
+#~ msgstr "‫الأسئلة المتابعة"
+
+#~ msgid "Followers Answers"
+#~ msgstr "‫‫‫‫‫الإجابات المتابعة"
+
+#~ msgid "Followers Posts"
+#~ msgstr "‫‫‫‫المقالات المتابعة"
+
+#~ msgid "Followers Comments"
+#~ msgstr "‫‫‫‫التعليقات المتابعة"
+
+#~ msgid "Groups"
+#~ msgstr "المجموعات"
+
+#~ msgid "Joined Groups"
+#~ msgstr "المجموعات المنضم لها"
+
+#~ msgid "Managed Groups"
+#~ msgstr "المجموعات المدارة"
+
+#~ msgid "Paid Questions"
+#~ msgstr "‫الأسئلة المدفوعة"
+
+#~ msgid "Asked Questions"
+#~ msgstr "‫‫‫الأسئلة الموجهه للعضو"
+
+#~ msgid "Best Answers"
+#~ msgstr "أفضل الإجابات"
+
+#~ msgid "Points"
+#~ msgstr "النقاط"
+
+#~ msgid "Followers"
+#~ msgstr "‫المتابعين"
+
+#~ msgid "Following"
+#~ msgstr "متابعين"
+
+#~ msgid "Blocking users"
+#~ msgstr "الأعضاء المحظورة"
+
+#~ msgid "Activity Log"
+#~ msgstr "الأنشطة"
+
+#~ msgid "Notifications"
+#~ msgstr "الأشعارات"
+
+#~ msgid "Subscriptions"
+#~ msgstr "الأشتراكات"
+
+#~ msgid "Create A Group"
+#~ msgstr "إنشاء مجموعة"
+
+#~ msgid "Post An Article"
+#~ msgstr "انشر مقالاً"
+
+#~ msgid "Sorry, no results."
+#~ msgstr "عفوا، لا يوجد نتائج."
+
+#~ msgid "Click OK to reset. Any theme settings will be lost."
+#~ msgstr "لو قمت بالضغط سوف تقوم بالإسترجاع. سوف تفقد جميع الإعدادات."
+
+#~ msgid "Are you sure you want to delete?"
+#~ msgstr "هل أنت متاكد من الحذف؟"
+
+#~ msgid "If you press the report will be deleted!"
+#~ msgstr "‫لو قمت بالضغط سوف تحذف البلاغ!"
+
+#~ msgid "If you press the attachment will be deleted!"
+#~ msgstr "‫لو قمت بالضغط سوف تحذف المرفق!"
+
+#~ msgid "Choose Image"
+#~ msgstr "أختار الصورة"
+
+#~ msgid "Upload"
+#~ msgstr "رفع"
+
+#~ msgid "Add answer"
+#~ msgstr "أضف إجابة"
+
+#~ msgid "No answers yet."
+#~ msgstr "لا يوجد إجابات حتي الآن."
+
+#~ msgid "ON"
+#~ msgstr "تفعيل"
+
+#~ msgid "OFF"
+#~ msgstr "‫تعطيل"
+
+#~ msgid "Insert Image"
+#~ msgstr "أدرج الصورة"
+
+#~ msgid "Attachment Error! Please upload image only."
+#~ msgstr "خطأ في المرفق! رجاءً، استخدم صورًا فقط."
+
+#~ msgid "Do you need to remove the ads?"
+#~ msgstr "هل تحتاج إلى إزالة الإعلانات؟"
+
+#~ msgid "Page settings"
+#~ msgstr "أعدادات الصفحة"
+
+#~ msgid "Save Options"
+#~ msgstr "حفظ الأعدادات"
+
+#~ msgid "Saved"
+#~ msgstr "تم الحفظ"
+
+#~ msgid "Reseted"
+#~ msgstr "تم الأسترجاع"
+
+#~ msgid "Restore Defaults"
+#~ msgstr "أسترجاع الأعدادات"
+
+#~ msgid "New"
+#~ msgstr "جديد"
+
+#~ msgid "No file chosen"
+#~ msgstr "لا يوجد ملف مختار"
+
+#~ msgid "Upgrade your version of WordPress for full media support."
+#~ msgstr "‫قم بترقية إصدار وردبريس للحصول على دعم كامل للوسائط."
+
+#~ msgid "View File"
+#~ msgstr "عرض الملف"
+
+#~ msgid "Show Categories"
+#~ msgstr "عرض كل الأقسام"
+
+#~ msgid "Add category"
+#~ msgstr "أضف قسم"
+
+#~ msgid "+ Add a new element"
+#~ msgstr "+ أضافة عنصر جديد"
+
+#~ msgid "Add a new role"
+#~ msgstr "إضافة مجموعة جديد"
+
+#~ msgid "All Question Categories"
+#~ msgstr "كل أقسام الأسئلة"
+
+#~ msgid "Size"
+#~ msgstr "الحجم"
+
+#~ msgid "No Repeat"
+#~ msgstr "عير مكرر"
+
+#~ msgid "Repeat Horizontally"
+#~ msgstr "مكرر أفقيا"
+
+#~ msgid "Repeat Vertically"
+#~ msgstr "مكرر عموديا"
+
+#~ msgid "Repeat All"
+#~ msgstr "مكرر في جميع الأتجاهات"
+
+#~ msgid "Top Left"
+#~ msgstr "أعلي يسار"
+
+#~ msgid "Top Center"
+#~ msgstr "أعلي وسط"
+
+#~ msgid "Top Right"
+#~ msgstr "أعلي يمين"
+
+#~ msgid "Middle Left"
+#~ msgstr "متوسط يسار"
+
+#~ msgid "Middle Center"
+#~ msgstr "متوسط وسط"
+
+#~ msgid "Middle Right"
+#~ msgstr "متوسط يمين"
+
+#~ msgid "Bottom Left"
+#~ msgstr "أسفل يسار"
+
+#~ msgid "Bottom Center"
+#~ msgstr "أسفل وسط"
+
+#~ msgid "Bottom Right"
+#~ msgstr "أسفل يمين"
+
+#~ msgid "Scroll Normally"
+#~ msgstr "التمرير طبيعي"
+
+#~ msgid "Fixed in Place"
+#~ msgstr "ثابت في المكان"
+
+#~ msgid "Style"
+#~ msgstr "الشكل"
+
+#~ msgid "Italic"
+#~ msgstr "مائل"
+
+#~ msgid "Bold"
+#~ msgstr "عريض"
+
+#~ msgid "Bold Italic"
+#~ msgstr "عريض مائل"
+
+#~ msgid "Ask questions"
+#~ msgstr "‫أسأل سؤال"
+
+#~ msgid "Home settings"
+#~ msgstr "الإعدادات الرئيسية"
+
+#~ msgid "Add a post"
+#~ msgstr "أضف مقال"
+
+#~ msgid "Left"
+#~ msgstr "يسار"
+
+#~ msgid "Center"
+#~ msgstr "وسط"
+
+#~ msgid "Home"
+#~ msgstr "الرئيسية"
+
+#~ msgid "Categories"
+#~ msgstr "الاقسام"
+
+#~ msgid "Advertising type"
+#~ msgstr "نوع الأعلانات"
+
+#~ msgid "Display code"
+#~ msgstr "كود العرض"
+
+#~ msgid "Home page"
+#~ msgstr "الصفحة الرئيسية"
+
+#~ msgid "Video type"
+#~ msgstr "نوع الفيديو"
+
+#~ msgid "Youtube"
+#~ msgstr "يوتيوب"
+
+#~ msgid "Vimeo"
+#~ msgstr "فيمو"
+
+#~ msgid "Facebook video"
+#~ msgstr "فيديو فيسبوك"
+
+#~ msgid "TikTok video"
+#~ msgstr "فيديو تيك توك"
+
+#~ msgid "Video ID"
+#~ msgstr "‫ID الفيديو"
+
+#~ msgid "Most Commented"
+#~ msgstr "الأكثر تعليقا"
+
+#~ msgid "Display by"
+#~ msgstr "عرض بواسطة"
+
+#~ msgid "Date meta"
+#~ msgstr "التاريخ"
+
+#~ msgid "Right"
+#~ msgstr "يمين"
+
+#~ msgid "Login or Signup"
+#~ msgstr "تسجيل دخول أو تسجيل جديد"
+
+#~ msgid "Signup"
+#~ msgstr "تسجيل جديد"
+
+#~ msgid "Add a new slide"
+#~ msgstr "إضافة سلايد جديد"
+
+#~ msgid "Load more"
+#~ msgstr "‫عرض المزيد"
+
+#~ msgid "Terms of Service and Privacy Policy"
+#~ msgstr "شروط الخدمة و سياسة الخصوصية"
+
+#~ msgid "Edit posts"
+#~ msgstr "تعديل المقالات"
+
+#~ msgid "Delete posts"
+#~ msgstr "حذف المقالات"
+
+#~ msgid "Default"
+#~ msgstr "الأفتراضي"
+
+#~ msgid "Linkedin"
+#~ msgstr "لينكد إن"
+
+#~ msgid "Instagram"
+#~ msgstr "انستجرام"
+
+#~ msgid "Pinterest"
+#~ msgstr "بنترست"
+
+#~ msgid "Name"
+#~ msgstr "الأسم"
+
+#~ msgid "Facebook link"
+#~ msgstr "رابط الفيسبوك"
+
+#~ msgid "Video Type"
+#~ msgstr "نوع الفيديو"
+
+#~ msgid "Video id"
+#~ msgstr "فيديو ID"
+
+#~ msgid "Twitter username"
+#~ msgstr "أسمك في توتير"
+
+#~ msgid "Sorry, this is a private answer."
+#~ msgstr "‫عفوًا، هذه إجابة خاصة."
+
+#~ msgid "Best Answer"
+#~ msgstr "أفضل إجابة"
+
+#~ msgid "Paid Answer"
+#~ msgstr "إجابة مدفوعة"
+
+#~ msgid "Replied to"
+#~ msgstr "رد علي"
+
+#~ msgid "Added an"
+#~ msgstr "أضاف"
+
+#, php-format
+#~ msgid "answer on %1$s at %2$s"
+#~ msgstr "‫‫إجابة يوم %1$s في %2$s"
+
+#~ msgid "Added a"
+#~ msgstr "أضاف"
+
+#, php-format
+#~ msgid "comment on %1$s at %2$s"
+#~ msgstr "‫‫تعليق يوم %1$s في %2$s"
+
+#~ msgid "This answer was edited."
+#~ msgstr "‫‫هذه الإجابة تم تعديلها."
+
+#~ msgid "This comment was edited."
+#~ msgstr "‫‫هذا التعليق تم تعديلها."
+
+#~ msgid "Your answer is awaiting moderation."
+#~ msgstr "‫إجابتك قيد المراجعة."
+
+#~ msgid "Your comment is awaiting moderation."
+#~ msgstr "‫تعليقك قيد المراجعة."
+
+#~ msgid "Reply"
+#~ msgstr "رد"
+
+#~ msgid "Login to Reply"
+#~ msgstr "تسجيل دخول للرد"
+
+#~ msgid "Cancel the best answer"
+#~ msgstr "‫‫إلغاء أفضل إجابة"
+
+#~ msgid "Select as best answer"
+#~ msgstr "‫‫أختيار أفضل إجابة"
+
+#~ msgid "Report"
+#~ msgstr "تبليغ"
+
+#~ msgid "Adv"
+#~ msgstr "أعلان"
+
+#~ msgid "Admin moderation"
+#~ msgstr "الإشراف الإداري"
+
+#~ msgid "Delete all the points history"
+#~ msgstr "حذف كافة محفوظات النقاط"
+
+#~ msgid "Approve this user"
+#~ msgstr "الموافقة على هذا العضو"
+
+#~ msgid "Subscription plan"
+#~ msgstr "خطة الاشتراك"
+
+#~ msgid "Monthly membership"
+#~ msgstr "عضوية شهرية"
+
+#~ msgid "Three months membership"
+#~ msgstr "عضوية ربع سنوية"
+
+#~ msgid "Six Months membership"
+#~ msgstr "عضوية نصف سنوية"
+
+#~ msgid "Yearly membership"
+#~ msgstr "عضوية سنوية"
+
+#~ msgid "Two Years membership"
+#~ msgstr "عضوية سنتين"
+
+#~ msgid "Lifetime membership"
+#~ msgstr "عضوية مدي الحياه"
+
+#~ msgid "Check ON if you need to assign a custom badge for this user."
+#~ msgstr "حدد \"تشغيل\" إذا كنت تريد تعيين شارة مخصصة لهذا المستخدم."
+
+#~ msgid "Check ON if you need this user to be a verified user."
+#~ msgstr "‫‎أختار لو تريد هذا العضو بعضوية موثقة."
+
+#~ msgid "Choose this user as a moderator."
+#~ msgstr "اختر هذا العضو كمشرف."
+
+#~ msgid "All Post Categories"
+#~ msgstr "كل أقسام المقالات"
+
+#~ msgid ""
+#~ "Check ON if you need to choose custom moderators permissions for this "
+#~ "user."
+#~ msgstr ""
+#~ "حدد نعم إذا كنت بحاجة إلى اختيار تصريحات المشرفين المخصصة لهذا المستخدم."
+
+#~ msgid "Edit questions"
+#~ msgstr "تعديل الأسئلة"
+
+#~ msgid "Ban users"
+#~ msgstr "حظر الأعضاء"
+
+#~ msgid "Block this user to send messages?"
+#~ msgstr "هل تريد حظر هذا المستخدم لإرسال رسائل؟"
+
+#~ msgid "Add or remove points for the user"
+#~ msgstr "إضافة أو إزالة نقاط للمستخدم"
+
+#~ msgid "Add"
+#~ msgstr "أضافة"
+
+#~ msgid "The points"
+#~ msgstr "النقاط"
+
+#~ msgid "The reason"
+#~ msgstr "السبب"
+
+#~ msgid "Author Setting"
+#~ msgstr "اعدادات العضو"
+
+#~ msgid "Your avatar"
+#~ msgstr "صورة الملف الشخصي"
+
+#~ msgid "Your cover"
+#~ msgstr "‫صورة الترويسة"
+
+#~ msgid "Add profile credential"
+#~ msgstr "‫أضافة معلومات إضافية للملف الشخص"
+
+#~ msgid "Country"
+#~ msgstr "الدولة"
+
+#~ msgid "Select a country&hellip;"
+#~ msgstr "أختار الدولة&hellip;"
+
+#~ msgid "City"
+#~ msgstr "المدينة"
+
+#~ msgid "Age"
+#~ msgstr "‎العمر"
+
+#~ msgid "Phone"
+#~ msgstr "‎الهاتف"
+
+#~ msgid "Other"
+#~ msgstr "آخر"
+
+#~ msgid "Male"
+#~ msgstr "‎ذكر"
+
+#~ msgid "Female"
+#~ msgstr "‎انثي"
+
+#~ msgid "Gender"
+#~ msgstr "النوع / جنس"
+
+#~ msgid ""
+#~ "Show your private pages for all the users? (Points, favorite and followed "
+#~ "pages)."
+#~ msgstr ""
+#~ "عرض صفحاتك الخاصة لجميع المستخدمين؟ (النقاط ، الصفحات المفضلة والمتبوعة)."
+
+#~ msgid "Mail settings"
+#~ msgstr "إعدادات البريد الإلكتروني"
+
+#~ msgid "Do you like to get mails for the new payments?"
+#~ msgstr "هل ترغب في الحصول على رسائل بريد إلكتروني للمدفوعات الجديدة؟"
+
+#~ msgid "Do you like to get mails when you receive new messages?"
+#~ msgstr "هل ترغب في تلقي رسائل بريدية عندما تتلقى رسائل جديدة؟"
+
+#~ msgid ""
+#~ "Do you like to get mails when new answers are added to your questions?"
+#~ msgstr "هل ترغب في تلقي رسائل بريد إلكتروني عند إضافة إجابات جديدة لأسئلتك؟"
+
+#~ msgid ""
+#~ "Do you like to get mails when new answers are added to the question that "
+#~ "you follow?"
+#~ msgstr ""
+#~ "هل ترغب في تلقي رسائل بريد إلكتروني عند إضافة إجابات جديدة إلى السؤال "
+#~ "الذي تتابعه؟"
+
+#~ msgid "Do you like to get mails when new replies are added to your answers?"
+#~ msgstr "هل تريد استقبال بريد إلكتروني عند إضافة رد جديد على إجابتك؟"
+
+#~ msgid "Do you like to get scheduled mails for the recent questions?"
+#~ msgstr "‫هل تريد استقبال بريد إلكتروني عند إضافة أسئلة جديدة بشكل دوري؟"
+
+#~ msgid "Do you like to get mails when new questions are added?"
+#~ msgstr "هل ترغب في الحصول على رسائل بريد إلكتروني عند إضافة أسئلة جديدة؟"
+
+#~ msgid "Do you like to get scheduled mails for the recent posts?"
+#~ msgstr "‫هل تريد استقبال بريد إلكتروني عند إضافة مقالات جديدة بشكل دوري؟"
+
+#~ msgid "Do you like to get mails when new posts are added?"
+#~ msgstr "هل ترغب في الحصول على رسائل بريد إلكتروني عند إضافة مقالات جديدة؟"
+
+#~ msgid "Do you like to unsubscribe from all the mails?"
+#~ msgstr "هل ترغب في إلغاء الاشتراك من جميع الرسائل؟"
+
+#~ msgid "Social Networking"
+#~ msgstr "المنصات الأجتماعية"
+
+#~ msgid "Advertising after header 1"
+#~ msgstr "الإعلان بعد العنوان 1"
+
+#~ msgid "Author by"
+#~ msgstr "الكاتب"
+
+#~ msgid "Category question"
+#~ msgstr "القسم"
+
+#~ msgid "Answer meta"
+#~ msgstr "الإجابة"
+
+#~ msgid "Is this question is a poll?"
+#~ msgstr "هذا السؤال عبارة عن استطلاع رأى؟"
+
+#~ msgid "Get notified by email when someone answers this question"
+#~ msgstr "تلقي إشعار بالبريد الإلكتروني عندما يجيب أحدهم على هذا السؤال"
+
+#~ msgid "Choose the roles or users for the popup notification"
+#~ msgstr "اختر الأدوار أو المستخدمين للإشعار المنبثق"
+
+#~ msgid "Group Options"
+#~ msgstr "خيارات المجموعة"
+
+#~ msgid "Video Image"
+#~ msgstr "صورة الفيديو"
+
+#~ msgid "Show the ask question box?"
+#~ msgstr "إظهار مربع طرح السؤال؟"
+
+#~ msgid "Random Questions"
+#~ msgstr "‫الأسئلة العشوائية"
+
+#~ msgid "Random Questions With Time"
+#~ msgstr "‫الأسئلة العشوائية بالوقت"
+
+#~ msgid "Poll Questions With Time"
+#~ msgstr "أسئلة التصويتات بالوقت"
+
+#~ msgid "Select ON to activate the read more by jQuery in questions"
+#~ msgstr "حدد ON لتنشيط قراءة المزيد عن طريق jQuery في الأسئلة"
+
+#~ msgid "Most voted"
+#~ msgstr "الأكثر تقيما"
+
+#~ msgid "Last answer"
+#~ msgstr "آخر إجابة"
+
+#~ msgid "First answer"
+#~ msgstr "أول إجابة"
+
+#~ msgid "Select the groups order by."
+#~ msgstr "حدد ترتيب المجموعات حسب."
+
+#~ msgid "Related posts"
+#~ msgstr "مقالات ذات صلة"
+
+#~ msgid "Show load more for the users?"
+#~ msgstr "عرض المزيد تحميل للمستخدمين؟"
+
+#~ msgid "Invitation"
+#~ msgstr "الدعوات"
+
+#~ msgid "Profile"
+#~ msgstr "الملف الشخصي"
+
+#~ msgid "Profile credential"
+#~ msgstr "معلومات إضافية للملف الشخص"
+
+#~ msgid "Public"
+#~ msgstr "عام"
+
+#~ msgid "All members"
+#~ msgstr "جميع الأعضاء"
+
+#~ msgid "Only me"
+#~ msgstr "أنا فقط"
+
+#~ msgid "User Avatar"
+#~ msgstr "صورة الملف الشخصي"
+
+#~ msgid "User Cover"
+#~ msgstr "صورة الغلاف الخاصة بك"
+
+#~ msgid "Profile Credential"
+#~ msgstr "معلومات إضافية للملف الشخص"
+
+#~ msgid "Follow Categories"
+#~ msgstr "تابع الأقسام"
+
+#~ msgid "Follow Users"
+#~ msgstr "تابع الأعضاء"
+
+#~ msgid "Ask first question"
+#~ msgstr "اسأل السؤال الأول"
+
+#~ msgid "Add Answers"
+#~ msgstr "أضف إجابات"
+
+#~ msgid "Ask anonymously"
+#~ msgstr "‫أسأل متخفيا"
+
+#~ msgid "Post or question"
+#~ msgstr "مقال أو سؤال"
+
+#~ msgid "Most visited"
+#~ msgstr "الأكثر زيارة"
+
+#~ msgid "Latest Posts"
+#~ msgstr "آخر المقالات"
+
+#~ msgid "views"
+#~ msgstr "زيارات"
+
+#~ msgid "Dislike"
+#~ msgstr "لم يعجبني"
+
+#~ msgid "Activate user can choose own answer as the best answer"
+#~ msgstr "يمكن للمستخدم التفعيل اختيار إجابته كأفضل إجابة"
+
+#~ msgid "Sticky"
+#~ msgstr "المثبة"
+
+#~ msgid "Approve questions or posts"
+#~ msgstr "الموافقة على الأسئلة أو المقالات"
+
+#~ msgid "Edit questions or posts"
+#~ msgstr "تعديل الأسئلة أو المقالات"
+
+#~ msgid "Buy points"
+#~ msgstr "‫شراء نقاط"
+
+#~ msgid "Discy Latest"
+#~ msgstr "الآخر"
+
+#~ msgid "Sorry this question is a special, The admin must answer first."
+#~ msgstr "عفوا هذا سؤال خاص، المدير يجب أن يرد أولا."
+
+#~ msgid "Edit your answer."
+#~ msgstr "عدل إجابتك."
+
+#~ msgid "Delete your answer."
+#~ msgstr "أحذف إجابتك."
+
+#~ msgid "You have already answered this question."
+#~ msgstr "‫قمت بالإجابة علي السؤال بالفعل."
+
+#~ msgid "Sorry, you do not have a permission to answer to this question."
+#~ msgstr "‫عفوا، ليس لديك صلاحيات لأضافة إجابة علي هذا السؤال."
+
+#~ msgid "Sorry this question is closed."
+#~ msgstr "عفوا هذا السؤال مغلق."
+
+#~ msgid "For adding a new question."
+#~ msgstr "لإضافة سؤال."
+
+#~ msgid "When your answer has been chosen as the best answer."
+#~ msgstr "عندما يتم اختيار إجابتك كأفضل إجابة."
+
+#~ msgid "Your question gets a vote."
+#~ msgstr "عفوا هذا السؤال مغلق."
+
+#~ msgid "For adding an answer."
+#~ msgstr "لإضف إجابة."
+
+#~ msgid "Your answer gets a vote."
+#~ msgstr "‫إجابتك قيد المراجعة."
+
+#~ msgid "Each time when a user follows you."
+#~ msgstr "كل مرة عضو يتابعك."
+
+#~ msgid "For adding a new post."
+#~ msgstr "لإضف مقالة جديدة."
+
+#~ msgid "For Signing up."
+#~ msgstr "عند التسجيل."
+
+#~ msgid "For referring a new user."
+#~ msgstr "لإحالة مستخدم جديد."
+
+#~ msgid "For referring a new user for paid membership."
+#~ msgstr "لإحالة مستخدم جديد للعضوية المدفوعة."
+
+#~ msgid "For adding your social media links to your profile."
+#~ msgstr "نقاط للعضو الذي يقوم بإضافة رابط للتواصل الاجتماعي."
+
+#, php-format
+#~ msgid "You must %1$s login %2$s or %3$s register %4$s to add a new comment."
+#~ msgstr "يجب عليك %1$s تسجيل الدخول %2$s أو %3$s للتسجيل %4$s لإضافة تعليق."
+
+#~ msgid "Delete all the activities history"
+#~ msgstr "حذف كافة محفوظات الأنشطة"
+
+#, php-format
+#~ msgid "%s Like"
+#~ msgid_plural "%s Likes"
+#~ msgstr[0] "0 أعجاب"
+#~ msgstr[1] "إعجاب"
+#~ msgstr[2] "إعجابين"
+#~ msgstr[3] "‫%s إعجابات"
+#~ msgstr[4] "‫%s إعجاب"
+#~ msgstr[5] "‏‫%s إعجاب"
+
+#~ msgid "Poll Results"
+#~ msgstr "نتائج التصويت"
+
+#~ msgid "Please login to vote and see the results."
+#~ msgstr ""
+#~ "من فضلك قم بتسجيل الدخول، الأعضاء فقط من يمكنهم التصويت ومشاهدة النتائج."
+
+#~ msgid "voter"
+#~ msgid_plural "voters"
+#~ msgstr[0] "مصوت"
+#~ msgstr[1] "صوت"
+#~ msgstr[2] "صوتين"
+#~ msgstr[3] "مصوت"
+#~ msgstr[4] "صوت"
+#~ msgstr[5] "صوت"
+
+#~ msgid "Based On"
+#~ msgstr "علي أساس"
+
+#~ msgid "No votes. Be the first one to vote."
+#~ msgstr "لا يوجد تصويتات، كن الأول."
+
+#~ msgid "Voting"
+#~ msgstr "تصويت"
+
+#~ msgid "Participate in Poll, Choose Your Answer."
+#~ msgstr "شارك في استطلاع، اختر إجابتك."
+
+#~ msgid "Results"
+#~ msgstr "النتائج"
+
+#, fuzzy
+#~| msgid "Questions"
+#~ msgid "Sections"
+#~ msgstr "الأسئلة"
+
+#~ msgid "Show follow up email?"
+#~ msgstr "‫أظهار بريدك الإلكتروني؟"
+
+#~ msgid "Follow up email"
+#~ msgstr "‫المتابعة"
+
+#, fuzzy
+#~| msgid "Type Your Email"
+#~ msgid "Type a name or email"
+#~ msgstr "أضف بريدك الإلكتروني"
+
+#~ msgid "Question Bump"
+#~ msgstr "الأسئلة المرفوعة"
+
+#~ msgid "Question Bump With Time"
+#~ msgstr "الأسئلة المرفوعة بالوقت"
+
+#~ msgid "Question bump"
+#~ msgstr "الأسئلة المرفوعة"
+
+#~ msgid "activity Log"
+#~ msgstr "الأنشطة"
+
+#~ msgid "Logout"
+#~ msgstr "تسجيل خروج"
+
+#~ msgid "Sorry it a private question."
+#~ msgstr "عفوا، هذا سؤال خاص."
+
+#~ msgid "answer"
+#~ msgstr "إجابة"
+
+#~ msgid "comment"
+#~ msgstr "تعليق"
+
+#~ msgid ""
+#~ "Do you need to get mails when new answer added for your following "
+#~ "question?"
+#~ msgstr ""
+#~ "‫‫‫هل تريد إستقبال بريد إلكتروني عند إضافة إجابة جديدة علي سؤال متابعه؟"
+
+#~ msgid "New message"
+#~ msgstr "رسالة جديدة"
+
+#~ msgid "All categories"
+#~ msgstr "كل الاقسام"
+
+#~ msgid "Approve"
+#~ msgstr "موافقة"
+
+#~ msgid "Ban user"
+#~ msgstr "حظر العضو"
+
+#~ msgid "For each follower you have."
+#~ msgstr "متابعة عضو في الموقع."
+
+#~ msgid "Points for you when registed."
+#~ msgstr "نقاط للعضو المنظم حديثا."
+
+#~ msgid "Voting a question in the community."
+#~ msgstr "التصويت علي سؤال في الموقع."
+
+#~ msgid "Add an answer in the community."
+#~ msgstr "أضافة إجابة في الموقع."
+
+#~ msgid "Voting an answer in the community."
+#~ msgstr "التصويت علي إجابة في الموقع."
+
+#~ msgid "For having a follower in the community."
+#~ msgstr "متابعة عضو في الموقع."
+
+#~ msgid "Points for a new user in the community."
+#~ msgstr "نقاط للعضو المنظم حديثا."
+
+#~ msgid "Votes"
+#~ msgstr "أصوات"
+
+#~ msgid "voters"
+#~ msgstr "مصوتين"
+
+#~ msgid "No"
+#~ msgstr "لا يوجد"
+
+#~ msgid "1"
+#~ msgstr "1"
+
+#~ msgid ""
+#~ "You must <a href=\"%s\" class=\"login-panel %s\">login</a> or <a "
+#~ "href=\"%s\" class=\"signup-panel %s\">register</a> to add a new"
+#~ msgstr ""
+#~ "‫يجب <a href=“%s” class=“login-panel %s>تسجيل الدخول</a> أو <a href=“%s” "
+#~ "class=“signup-panel %s>تسجيل جديد</a> لتستطيع أضافة"
+
+#~ msgid "Still no answers yet"
+#~ msgstr "لا يوجد إجابات"
+
+#~ msgid "Still no posts."
+#~ msgstr "لا يوجد مقالات."
+
+#~ msgid "Most Visit"
+#~ msgstr "الأكثر زيارة"
+
+#~ msgid "Open"
+#~ msgstr "أفتح"
+
+#~ msgid "Ask"
+#~ msgstr "أسأل"

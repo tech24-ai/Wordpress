@@ -1,0 +1,1689 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: discy\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-04-20 04:39-0300\n"
+"PO-Revision-Date: 2018-01-30 14:44+0200\n"
+"Last-Translator: Ahmed Hassan <2codeThemes@gmail.com>\n"
+"Language-Team: 2codeThemes <2codeThemes@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-SearchPath-0: languages\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: admin/functions/main_functions.php:216 theme-parts/content.php:281
+msgid "Read"
+msgstr ""
+
+#: admin/functions/main_functions.php:216 theme-parts/content.php:281
+msgid "Read more"
+msgstr ""
+
+#: admin/functions/nav_menu.php:8
+msgid "You can use WP menu builder to build menus"
+msgstr ""
+
+#: admin/functions/register_post.php:9
+msgid "Author"
+msgstr ""
+
+#: admin/functions/register_post.php:10
+msgid "Format"
+msgstr ""
+
+#: admin/functions/register_post.php:50 theme-parts/content-question.php:619
+msgid "View"
+msgid_plural "Views"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/functions/widget_functions.php:27
+msgid "First footer widget area"
+msgstr ""
+
+#: admin/functions/widget_functions.php:34
+msgid "Second footer widget area"
+msgstr ""
+
+#: admin/functions/widget_functions.php:41
+msgid "Third footer widget area"
+msgstr ""
+
+#: admin/functions/widget_functions.php:48
+msgid "Fourth footer widget area"
+msgstr ""
+
+#: admin/functions/widget_functions.php:55
+msgid "Fifth footer widget area"
+msgstr ""
+
+#: admin/functions/widget_functions.php:62 includes/footer-code.php:37
+msgid "Sidebar"
+msgstr ""
+
+#: admin/functions/widget_functions.php:69
+msgid "Sidebar 2"
+msgstr ""
+
+#: admin/options.php:5
+msgid "Activate all the header?"
+msgstr ""
+
+#: admin/options.php:6
+msgid "Select ON to enable header."
+msgstr ""
+
+#: admin/options.php:19
+msgid "Header height"
+msgstr ""
+
+#: admin/options.php:20
+msgid "Choose the header height."
+msgstr ""
+
+#: admin/options.php:24
+msgid "Large"
+msgstr ""
+
+#: admin/options.php:24
+msgid "Small"
+msgstr ""
+
+#: admin/options.php:28
+msgid "Header style"
+msgstr ""
+
+#: admin/options.php:29
+msgid "Choose the header style."
+msgstr ""
+
+#: admin/options.php:33
+msgid "Normal"
+msgstr ""
+
+#: admin/options.php:33
+msgid "Simple"
+msgstr ""
+
+#: admin/options.php:37
+msgid "Header skin"
+msgstr ""
+
+#: admin/options.php:38
+msgid "Choose the header skin."
+msgstr ""
+
+#: admin/options.php:42 admin/options.php:196 admin/options.php:236
+#: admin/options.php:286
+msgid "Dark"
+msgstr ""
+
+#: admin/options.php:42 admin/options.php:196 admin/options.php:236
+#: admin/options.php:286
+msgid "Light"
+msgstr ""
+
+#: admin/options.php:42
+msgid "Colored"
+msgstr ""
+
+#: admin/options.php:46
+msgid "Logo Custom Link URL"
+msgstr ""
+
+#: admin/options.php:47
+msgid ""
+"Enter a custom URL the site logo should link to. Leave empty to let logo link to "
+"the home page."
+msgstr ""
+
+#: admin/options.php:53
+msgid "Logo display"
+msgstr ""
+
+#: admin/options.php:54
+msgid "Choose the logo display."
+msgstr ""
+
+#: admin/options.php:58
+msgid "Display site title"
+msgstr ""
+
+#: admin/options.php:58
+msgid "Custom Image"
+msgstr ""
+
+#: admin/options.php:62
+msgid "Upload the logo"
+msgstr ""
+
+#: admin/options.php:63
+msgid "Upload your custom logo."
+msgstr ""
+
+#: admin/options.php:72
+msgid "Upload the retina logo"
+msgstr ""
+
+#: admin/options.php:73
+msgid "Upload your custom retina logo."
+msgstr ""
+
+#: admin/options.php:81
+msgid "Logo height"
+msgstr ""
+
+#: admin/options.php:92
+msgid "Logo width"
+msgstr ""
+
+#: admin/options.php:103
+msgid "Header search option"
+msgstr ""
+
+#: admin/options.php:104
+msgid "Select ON to enable header search."
+msgstr ""
+
+#: admin/options.php:111
+msgid "Activate the bigger search bar?"
+msgstr ""
+
+#: admin/options.php:112
+msgid "Select ON to enable header bigger search bar."
+msgstr ""
+
+#: admin/options.php:125
+msgid "Simple header button"
+msgstr ""
+
+#: admin/options.php:126
+msgid "Choose simple header button style from here."
+msgstr ""
+
+#: admin/options.php:129 header-parts/call-action.php:105
+#: header-parts/mobile-bar.php:50 header-parts/mobile-menu.php:29
+#: header-parts/slider.php:66
+msgid "Ask A Question"
+msgstr ""
+
+#: admin/options.php:130 header-parts/call-action.php:110
+#: header-parts/mobile-bar.php:56 header-parts/mobile-menu.php:34
+#: header-parts/slider.php:71
+msgid "Add A Poll"
+msgstr ""
+
+#: admin/options.php:131
+msgid "Add A Post"
+msgstr ""
+
+#: admin/options.php:132
+msgid "Custom link"
+msgstr ""
+
+#: admin/options.php:145
+msgid "Open the page in same page or a new page?"
+msgstr ""
+
+#: admin/options.php:149
+msgid "Same page"
+msgstr ""
+
+#: admin/options.php:149
+msgid "New page"
+msgstr ""
+
+#: admin/options.php:153
+msgid "Type the button link"
+msgstr ""
+
+#: admin/options.php:159
+msgid "Type the button text"
+msgstr ""
+
+#: admin/options.php:177
+msgid "User icon profile or login and register buttons"
+msgstr ""
+
+#: admin/options.php:178
+msgid "Select ON to enable header user login area."
+msgstr ""
+
+#: admin/options.php:191
+msgid "Header user login style"
+msgstr ""
+
+#: admin/options.php:192
+msgid "Choose header user login style."
+msgstr ""
+
+#: admin/options.php:200
+msgid ""
+"The settings of header profile menu on the WordPress menus, on menu named Header "
+"Profile Menu"
+msgstr ""
+
+#: admin/options.php:217
+msgid "Header messages"
+msgstr ""
+
+#: admin/options.php:218
+msgid "Select ON to enable header messages."
+msgstr ""
+
+#: admin/options.php:231
+msgid "Header messages style"
+msgstr ""
+
+#: admin/options.php:232
+msgid "Choose header messages style."
+msgstr ""
+
+#: admin/options.php:240
+msgid "Header messages number"
+msgstr ""
+
+#: admin/options.php:241
+msgid "Put the header messages number."
+msgstr ""
+
+#: admin/options.php:262
+msgid ""
+"If you activate the discoura style, the notification icon on the header will not "
+"showing."
+msgstr ""
+
+#: admin/options.php:267
+msgid "Header notifications"
+msgstr ""
+
+#: admin/options.php:268
+msgid "Select ON to enable header notifications."
+msgstr ""
+
+#: admin/options.php:281
+msgid "Header notifications style"
+msgstr ""
+
+#: admin/options.php:282
+msgid "Choose header notifications style."
+msgstr ""
+
+#: admin/options.php:290
+msgid "Header notifications number"
+msgstr ""
+
+#: admin/options.php:291
+msgid "Put the header notifications number."
+msgstr ""
+
+#: admin/options.php:305
+msgid "Fixed header option"
+msgstr ""
+
+#: admin/options.php:306
+msgid "Select ON to enable fixed header."
+msgstr ""
+
+#: admin/options.php:321
+msgid "Discy Change log"
+msgstr ""
+
+#: admin/options.php:328
+msgid "Mobile APP Change log"
+msgstr ""
+
+#: admin/options.php:335
+msgid "Support"
+msgstr ""
+
+#: admin/options.php:346
+msgid "Choose the your old theme if you use one of our themes before"
+msgstr ""
+
+#: admin/options.php:349
+msgid "No thing, just a new site"
+msgstr ""
+
+#: admin/options.php:350
+msgid "Ask Me"
+msgstr ""
+
+#: admin/options.php:351
+msgid "Himer"
+msgstr ""
+
+#: admin/options.php:358
+msgid "Import Setting"
+msgstr ""
+
+#: admin/options.php:359
+msgid "Put here the import setting"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure maximum "
+"compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure maximum "
+"compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:393
+#: admin/plugins/class-tgm-plugin-activation.php:913
+#: admin/plugins/class-tgm-plugin-activation.php:2619
+#: admin/plugins/class-tgm-plugin-activation.php:3671
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:394
+#: admin/plugins/class-tgm-plugin-activation.php:3245
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:395
+msgctxt "activated_successfully"
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. Please "
+"update the plugin."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:1020
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug and "
+"renaming did not work."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:1020
+#: admin/plugins/class-tgm-plugin-activation.php:1023
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin according "
+"to the WordPress guidelines."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:1023
+msgid ""
+"The remote plugin package consists of more than one file, but the files are not "
+"packaged in a folder."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:1207
+#: admin/plugins/class-tgm-plugin-activation.php:3034
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2068
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2359
+msgid "Required"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2362
+msgid "Recommended"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2378
+msgid "WordPress Repository"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2381
+msgid "External Source"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2384
+msgid "Pre-Packaged"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2401
+msgid "Not Installed"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2405
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2407
+#: admin/updater/elitepack-config.php:168 admin/updater/elitepack-config.php:178
+msgid "Active"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2413
+msgid "Required Update not Available"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2416
+msgid "Requires Update"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2419
+msgid "Update recommended"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2428
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2474
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2478
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2482
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2486
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2568
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2576
+msgid "Installed version:"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2584
+msgid "Minimum required version:"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2596
+msgid "Available version:"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2619
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2633
+msgid "Plugin"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2634
+msgid "Source"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2635
+msgid "Type"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2639
+msgid "Version"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2640
+msgid "Status"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2689
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2694
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2700
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2770
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2803
+msgid "Install"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2809
+msgid "Update"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2812
+msgid "Activate"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2843
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2845
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2886
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2888
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2994
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3020
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3038
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3244
+msgid "Plugin activation failed."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3584
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3587
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3589
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3593
+msgid ""
+"The installation and activation process is starting. This process may take a while "
+"on some hosts, so please be patient."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3595
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3596
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3598
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3601
+msgid ""
+"The installation process is starting. This process may take a while on some hosts, "
+"so please be patient."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3603
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3604
+msgid "All installations have been completed."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3606
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3611
+msgid "Show Details"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3611
+msgid "Hide Details"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:26 admin/updater/elitepack-config.php:164
+msgid "Purchase a License"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:27
+msgid "Renew Support"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:28
+msgid "Need Help?"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:29
+msgid "Try Again"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:30
+#, php-format
+msgid "Register %s"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:31
+#, php-format
+msgid ""
+"Thank you for choosing %s! Your product must be registered to see the theme "
+"options, import our awesome demos, install bundled plugins, receive automatic "
+"updates, and access to support."
+msgstr ""
+
+#: admin/updater/elitepack-config.php:32 admin/updater/elitepack-config.php:163
+msgid "Register Now!"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:33
+msgid "Congratulations"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:34
+msgid ""
+"Your License is now registered!, theme options, demo import, and bundeled plugins "
+"is now unlocked."
+msgstr ""
+
+#: admin/updater/elitepack-config.php:35
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: admin/updater/elitepack-config.php:36
+msgid "Register the theme to unlock automatic updates."
+msgstr ""
+
+#: admin/updater/elitepack-config.php:37
+msgid "Renew your support to unlock automatic updates."
+msgstr ""
+
+#: admin/updater/elitepack-config.php:38
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:39
+#, php-format
+msgid ""
+"Your support will Expire in %s. Renew your license today and save 25%% to keep "
+"getting auto updates and premium support, remember purchasing a new license "
+"extends support for all licenses."
+msgstr ""
+
+#: admin/updater/elitepack-config.php:40
+msgid "Failed, try again later."
+msgstr ""
+
+#: admin/updater/elitepack-config.php:41
+#, php-format
+msgid "Did not updated, Your support expires on %s"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:42
+#, php-format
+msgid "Updated successfully, your support expires on %s"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:43
+#, php-format
+msgid "There is a new version of %1$s available."
+msgstr ""
+
+#: admin/updater/elitepack-config.php:44
+#, php-format
+msgid "There is a new version of %1$s available, %2$sView version %3$s details%4$s."
+msgstr ""
+
+#: admin/updater/elitepack-config.php:45
+msgid "update now"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:46
+msgid "License Deactivated Successfully."
+msgstr ""
+
+#: admin/updater/elitepack-config.php:47
+msgid "Cancel"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:48
+msgid "Skip & Switch"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:49
+msgid "Send & Switch"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:50
+#, php-format
+msgid "%s feedback"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:51
+msgid "May we have a little info about why you are switching?"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:82 admin/updater/elitepack-config.php:118
+msgid "Congratulations! Your product is registered now."
+msgstr ""
+
+#: admin/updater/elitepack-config.php:89 admin/updater/elitepack-config.php:137
+msgid "Welcome to"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:96
+msgid "Required plugin:"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:99
+msgctxt "Activate plugin link"
+msgid "Begin activating plugin"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:101
+msgctxt "Install plugin link"
+msgid "Begin installing plugin"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:117 admin/updater/elitepack-config.php:122
+msgid "Thank you for choosing "
+msgstr ""
+
+#: admin/updater/elitepack-config.php:123
+msgid "Click on the button below to begin the registration process."
+msgstr ""
+
+#: admin/updater/elitepack-config.php:128
+msgid "See the theme options"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:129
+msgid "Import our awesome demos"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:130
+msgid "Install the included plugins"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:131
+msgid "Receive automatic updates"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:132
+msgid "Access to support"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:168
+msgid "License Status:"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:169
+msgid "Revoke License"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:175
+#, php-format
+msgid "Expiring! will expire on %s"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:181
+msgid "Expired"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:187
+msgid "Support Status:"
+msgstr ""
+
+#: admin/updater/elitepack-config.php:188
+msgid "Refresh Expiration Date"
+msgstr ""
+
+#: admin/widgets.php:8
+msgid "Title"
+msgstr ""
+
+#: admin/widgets.php:14
+msgid "Image URL logo"
+msgstr ""
+
+#: admin/widgets.php:21
+msgid "Height of the logo"
+msgstr ""
+
+#: admin/widgets.php:30
+msgid "Width of the logo"
+msgstr ""
+
+#: admin/widgets.php:39
+msgid "Margin top for the logo"
+msgstr ""
+
+#: admin/widgets.php:48
+msgid "About text"
+msgstr ""
+
+#: admin/widgets.php:54
+msgid "Margin top for the text"
+msgstr ""
+
+#: admin/widgets/about.php:36
+msgid "About"
+msgstr ""
+
+#: admin/widgets/adv-120x240.php:47
+msgid "Adv 120x240"
+msgstr ""
+
+#: admin/widgets/adv-120x600.php:29
+msgid "Adv 120x600"
+msgstr ""
+
+#: admin/widgets/adv-125x125.php:47
+msgid "Adv 125x125"
+msgstr ""
+
+#: admin/widgets/adv-234x60.php:29
+msgid "Adv 234x60"
+msgstr ""
+
+#: admin/widgets/adv-250x250.php:29
+msgid "Adv 250x250"
+msgstr ""
+
+#: admin/widgets/facebook.php:28
+msgid "Facebook"
+msgstr ""
+
+#: admin/widgets/social.php:22
+msgid "Social media"
+msgstr ""
+
+#: admin/widgets/social.php:60 admin/widgets/social.php:74
+msgid "Hello"
+msgstr ""
+
+#: admin/widgets/social.php:67
+msgid "Feed"
+msgstr ""
+
+#: admin/widgets/subscribe.php:24 admin/widgets/subscribe.php:29
+msgid "Subscribe"
+msgstr ""
+
+#: admin/widgets/subscribe.php:28
+msgid "Type Your Email"
+msgstr ""
+
+#: admin/widgets/video.php:34
+msgid "Video"
+msgstr ""
+
+#: category.php:10 taxonomy-question-category.php:14
+msgid "Category"
+msgstr ""
+
+#: category.php:12 taxonomy-question-category.php:16
+msgid "Category feed"
+msgstr ""
+
+#: comment-parts/comment-form.php:17
+msgid "Your Name"
+msgstr ""
+
+#: comment-parts/comment-form.php:18
+msgid "Email"
+msgstr ""
+
+#: comment-parts/comment-form.php:19
+msgid "URL"
+msgstr ""
+
+#: comment-parts/comment-form.php:30
+msgctxt "Answer textarea"
+msgid "Answer"
+msgstr ""
+
+#: comment-parts/comment-form.php:30
+msgctxt "Comment textarea"
+msgid "Comment"
+msgstr ""
+
+#: comment-parts/comment-form.php:37
+msgid "You must login to add an answer."
+msgstr ""
+
+#: comment-parts/comment-form.php:37
+msgid "You must login to add a new comment."
+msgstr ""
+
+#: comment-parts/comment-form.php:38
+msgid "Logged in as"
+msgstr ""
+
+#: comment-parts/comment-form.php:38
+msgid "Log out of this account"
+msgstr ""
+
+#: comment-parts/comment-form.php:38
+msgid "Log out"
+msgstr ""
+
+#: comment-parts/comment-form.php:39 comment-parts/comment-form.php:41
+msgid "Leave an answer"
+msgstr ""
+
+#: comment-parts/comment-form.php:39
+msgid "Leave a comment"
+msgstr ""
+
+#: comment-parts/comment-form.php:40
+#, php-format
+msgid "Leave an reply to %s"
+msgstr ""
+
+#: comment-parts/comment-form.php:40
+#, php-format
+msgid "Leave a comment to %s"
+msgstr ""
+
+#: comment-parts/comment-form.php:48
+msgid "Submit"
+msgstr ""
+
+#: comment-parts/comment-group-form.php:4
+msgid "Featured image"
+msgstr ""
+
+#: comment-parts/comment-group-form.php:8
+msgid "Select file"
+msgstr ""
+
+#: comment-parts/comment-group-form.php:9
+msgid "Browse"
+msgstr ""
+
+#: comment-parts/comment-group-form.php:25
+msgctxt "Comment group textarea"
+msgid "Comment"
+msgstr ""
+
+#: comment-parts/comment-group-form.php:30
+msgid "Click here to cancel reply."
+msgstr ""
+
+#: comment-parts/comment-group-form.php:33
+msgctxt "Comment group button"
+msgid "Comment"
+msgstr ""
+
+#: comments.php:14
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: comments.php:19
+msgid "This question is password protected. Enter the password to view answers."
+msgstr ""
+
+#: comments.php:21
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:88 functions.php:510
+#, php-format
+msgid "%s Answer"
+msgid_plural "%s Answers"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:88 theme-parts/content-group.php:118
+#, php-format
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:95
+msgid "Voted"
+msgstr ""
+
+#: comments.php:97
+msgid "Oldest"
+msgstr ""
+
+#: comments.php:99
+msgid "Recent"
+msgstr ""
+
+#: comments.php:101
+msgid "Random"
+msgstr ""
+
+#: comments.php:180
+msgid "Sorry, you do not have permission to view answers."
+msgstr ""
+
+#: comments.php:182
+msgid "Sorry, you do not have permission to view comments."
+msgstr ""
+
+#: functions.php:126
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:438 functions.php:446
+msgid "Asked:"
+msgstr ""
+
+#: functions.php:440
+msgid "Posted:"
+msgstr ""
+
+#: functions.php:442 theme-parts/content-group.php:20 theme-parts/loop-groups.php:85
+msgid "ago"
+msgstr ""
+
+#: functions.php:448
+msgid "On:"
+msgstr ""
+
+#: functions.php:466
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: functions.php:475
+msgid "Asked to"
+msgstr ""
+
+#: functions.php:480
+msgid "In:"
+msgstr ""
+
+#: functions.php:514
+msgid "Comments: "
+msgstr ""
+
+#: functions.php:525
+msgid "Views:"
+msgstr ""
+
+#: header-parts/call-action.php:65
+msgid "Your browser does not support the video tag."
+msgstr ""
+
+#: header-parts/call-action.php:115 header-parts/mobile-bar.php:62
+#: header-parts/mobile-menu.php:39 header-parts/slider.php:76
+msgid "Add A New Post"
+msgstr ""
+
+#: header-parts/call-action.php:122 header-parts/slider.php:83
+msgid "Login"
+msgstr ""
+
+#: header-parts/call-action.php:130 header-parts/slider.php:91
+msgid "Create A New Account"
+msgstr ""
+
+#: header-parts/logo.php:5 header-parts/logo.php:8 header-parts/logo.php:11
+#: header-parts/logo.php:14
+msgid "Logo"
+msgstr ""
+
+#: header-parts/mobile-bar.php:7
+msgid "Open your app"
+msgstr ""
+
+#: header-parts/mobile-bar.php:11
+msgid "iPhone"
+msgstr ""
+
+#: header-parts/mobile-bar.php:14
+msgid "Android"
+msgstr ""
+
+#: header-parts/mobile-bar.php:27 header-parts/mobile-menu.php:94
+#: header-parts/slider.php:116 includes/header-code.php:310
+msgid "Search"
+msgstr ""
+
+#: header-parts/mobile-bar.php:32 header-parts/mobile-menu.php:86
+msgid "Hit enter to search"
+msgstr ""
+
+#: header-parts/mobile-bar.php:68 header-parts/mobile-menu.php:44
+msgid "Create A New Group"
+msgstr ""
+
+#: header-parts/mobile-menu.php:12
+msgid "Mobile menu"
+msgstr ""
+
+#: header-parts/mobile-menu.php:15
+msgid "Close"
+msgstr ""
+
+#: header-parts/navbar-nav.php:6 includes/login-page.php:57
+msgid "Navigation"
+msgstr ""
+
+#: header-parts/slider.php:110 includes/header-code.php:303
+msgid "Type Search Words"
+msgstr ""
+
+#: header-parts/slider.php:123
+msgid "What's your question?"
+msgstr ""
+
+#: header-parts/slider.php:125 includes/header-code.php:269
+msgid "Ask Question"
+msgstr ""
+
+#: header-parts/slider.php:142
+msgid "Sign Up Here"
+msgstr ""
+
+#: header-parts/slider.php:155
+msgid "Sign In Now"
+msgstr ""
+
+#: includes/blog-header-footer.php:25
+msgid "Explore Our Blog"
+msgstr ""
+
+#: includes/footer-code.php:77
+msgid "Explore"
+msgstr ""
+
+#: includes/footer-code.php:171 includes/footer-code.php:233
+msgid "Footer"
+msgstr ""
+
+#: includes/footer-code.php:288
+msgid "Ask a question"
+msgstr ""
+
+#: includes/header-code.php:139 includes/header-code.php:152
+msgid "Sign Up"
+msgstr ""
+
+#: includes/header-code.php:144 includes/header-code.php:152
+msgid "Sign In"
+msgstr ""
+
+#: includes/header-code.php:254
+msgid "Welcome"
+msgstr ""
+
+#: includes/header-code.php:274
+msgid "Add Poll"
+msgstr ""
+
+#: includes/header-code.php:279
+msgid "Add Post"
+msgstr ""
+
+#: includes/header-code.php:380 includes/header-code.php:392
+msgid "Edit profile"
+msgstr ""
+
+#: includes/header-code.php:405
+msgid "Required update plugin:"
+msgstr ""
+
+#: includes/header-code.php:406
+msgctxt "Update plugin link"
+msgid "Begin updating plugin"
+msgstr ""
+
+#: includes/login-page.php:72
+msgid ""
+"This page must be redirected to home if you are logged in, but it's not "
+"redirecting for the admin."
+msgstr ""
+
+#: single-group.php:9
+msgid "Sorry, you blocked from this group."
+msgstr ""
+
+#: single-group.php:24
+msgid "Group rules"
+msgstr ""
+
+#: single-group.php:25
+msgid "See more"
+msgstr ""
+
+#: single-group.php:26
+msgid "See less"
+msgstr ""
+
+#: single-group.php:80
+msgid "There are no posts yet."
+msgstr ""
+
+#: single-group.php:83
+msgid "Sorry, this is a private group."
+msgstr ""
+
+#: tag.php:9 taxonomy-question_tags.php:11
+msgid "Tag"
+msgstr ""
+
+#: tag.php:11 taxonomy-question_tags.php:13
+msgid "Tag feed"
+msgstr ""
+
+#: template-badges.php:35
+msgid "Points System"
+msgstr ""
+
+#: template-badges.php:48 template-badges.php:99 theme-parts/content-question.php:634
+msgid "Point"
+msgid_plural "Points"
+msgstr[0] ""
+msgstr[1] ""
+
+#: template-badges.php:75
+msgid "Badges System"
+msgstr ""
+
+#: template-badges.php:95 theme-parts/show-categories.php:40
+msgid "Question"
+msgid_plural "Questions"
+msgstr[0] ""
+msgstr[1] ""
+
+#: template-badges.php:97
+msgid "Answer"
+msgid_plural "Answers"
+msgstr[0] ""
+msgstr[1] ""
+
+#: theme-parts/content-group.php:27 theme-parts/content-question.php:184
+msgid "Pinned"
+msgstr ""
+
+#: theme-parts/content-group.php:44 theme-parts/content.php:272
+msgid "Delete"
+msgstr ""
+
+#: theme-parts/content-group.php:104
+msgid "Unlike"
+msgstr ""
+
+#: theme-parts/content-group.php:107
+msgctxt "Like group posts"
+msgid "Like"
+msgstr ""
+
+#: theme-parts/content-group.php:113
+msgid "Like"
+msgid_plural "Likes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: theme-parts/content-group.php:126
+msgctxt "Comment button group posts"
+msgid "Comment"
+msgstr ""
+
+#: theme-parts/content-group.php:132
+msgid "Agree"
+msgstr ""
+
+#: theme-parts/content-group.php:136
+msgid "Unblock"
+msgstr ""
+
+#: theme-parts/content-group.php:138
+msgid "Remove"
+msgstr ""
+
+#: theme-parts/content-group.php:139
+msgid "Block"
+msgstr ""
+
+#: theme-parts/content-group.php:174
+#, php-format
+msgid "View %s more comment"
+msgid_plural "View %s more comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: theme-parts/content-question.php:77 theme-parts/content-question.php:380
+msgid "Sorry it's a private question."
+msgstr ""
+
+#: theme-parts/content-question.php:113
+msgid "Anonymous"
+msgstr ""
+
+#: theme-parts/content-question.php:117
+msgid "[Deleted User]"
+msgstr ""
+
+#: theme-parts/content-question.php:223
+msgid "Poll"
+msgstr ""
+
+#: theme-parts/content-question.php:480 theme-parts/content-question.php:487
+msgid "Attachment"
+msgstr ""
+
+#: theme-parts/content-question.php:539
+msgid "Read less"
+msgstr ""
+
+#: theme-parts/content-question.php:623
+msgid "Vote"
+msgid_plural "Votes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: theme-parts/content-question.php:653
+msgid "Unfollow the question"
+msgstr ""
+
+#: theme-parts/content-question.php:653 theme-parts/content-question.php:656
+msgid "Follow the question"
+msgstr ""
+
+#: theme-parts/content-question.php:660 theme-parts/show-categories.php:43
+#: theme-parts/show-categories.php:59 theme-parts/show-tags.php:14
+msgid "Follower"
+msgid_plural "Followers"
+msgstr[0] ""
+msgstr[1] ""
+
+#: theme-parts/content-question.php:681 theme-parts/content-question.php:683
+msgid "Add this question to favorites"
+msgstr ""
+
+#: theme-parts/content-question.php:681
+msgid "Remove this question of my favorites"
+msgstr ""
+
+#: theme-parts/content-question.php:700
+msgid "Share"
+msgstr ""
+
+#: theme-parts/content-question.php:709
+msgctxt "Answer button on question"
+msgid "Answer"
+msgstr ""
+
+#: theme-parts/content-question.php:777
+msgid "Sorry, you do not have permission to view questions."
+msgstr ""
+
+#: theme-parts/content.php:2
+msgid "Meta and title"
+msgstr ""
+
+#: theme-parts/content.php:2
+msgid "Image"
+msgstr ""
+
+#: theme-parts/content.php:259
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: theme-parts/content.php:269
+msgid "Edit"
+msgstr ""
+
+#: theme-parts/content.php:310
+msgid "About the author"
+msgstr ""
+
+#: theme-parts/content.php:311
+msgid "Next and Previous articles"
+msgstr ""
+
+#: theme-parts/content.php:312
+msgid "Advertising"
+msgstr ""
+
+#: theme-parts/content.php:313
+msgid "Related articles"
+msgstr ""
+
+#: theme-parts/content.php:314
+msgid "Comments"
+msgstr ""
+
+#: theme-parts/content.php:343
+msgid "Previous article"
+msgstr ""
+
+#: theme-parts/content.php:355
+msgid "Next article"
+msgstr ""
+
+#: theme-parts/content.php:377
+msgid "Sorry, you do not have permission to view posts."
+msgstr ""
+
+#: theme-parts/loop-groups.php:74
+msgid "Public group"
+msgstr ""
+
+#: theme-parts/loop-groups.php:74
+msgid "Private group"
+msgstr ""
+
+#: theme-parts/loop-groups.php:77
+#, php-format
+msgid "%s Post"
+msgid_plural "%s Posts"
+msgstr[0] ""
+msgstr[1] ""
+
+#: theme-parts/loop-groups.php:78
+#, php-format
+msgid "%s User"
+msgid_plural "%s Users"
+msgstr[0] ""
+msgstr[1] ""
+
+#: theme-parts/loop-groups.php:83
+#, php-format
+msgid "%s View"
+msgid_plural "%s Views"
+msgstr[0] ""
+msgstr[1] ""
+
+#: theme-parts/loop-groups.php:104
+msgid "There are no groups yet."
+msgstr ""
+
+#: theme-parts/related.php:122
+msgid "Related Questions"
+msgstr ""
+
+#: theme-parts/related.php:122
+msgid "Related Posts"
+msgstr ""
+
+#: theme-parts/show-categories.php:32 theme-parts/show-categories.php:39
+#: theme-parts/show-categories.php:54 theme-parts/show-tags.php:10
+#: theme-parts/show-tags.php:27
+#, php-format
+msgid "View all questions under %s"
+msgstr ""
+
+#: theme-parts/show-categories.php:54 theme-parts/show-tags.php:27
+#, php-format
+msgid "View all posts under %s"
+msgstr ""
+
+#: theme-parts/show-tags.php:40
+#, php-format
+msgid "%s asked today"
+msgstr ""
+
+#: theme-parts/show-tags.php:41
+#, php-format
+msgid "%s this week"
+msgstr ""
+
+#: theme-parts/show-tags.php:42
+#, php-format
+msgid "%s this month"
+msgstr ""

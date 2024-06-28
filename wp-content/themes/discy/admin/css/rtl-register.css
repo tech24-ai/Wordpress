@@ -1,0 +1,81 @@
+#framework-registration-wrap {
+	width: 960px;
+	position: relative;
+	margin: 30px auto 0;
+}
+#framework-registration-wrap .postbox .inside {
+	padding: 0 20px;
+	margin-top: 0;
+	overflow: hidden;
+}
+#framework-registration-wrap h2,#framework-registration-wrap h3 {
+	line-height: 30px;
+}
+#framework-registration-wrap p {
+	font-size: 14px;
+	margin-right: 10px;
+	margin-bottom: 20px;
+}
+#framework-registration-wrap li {
+	margin-bottom: 15px;
+	margin-right: 10px;
+}
+#framework-registration-wrap li:last-child {
+	margin-bottom: 0;
+}
+#framework-registration-wrap i {
+	margin-left: 10px;
+}
+#framework-registration-wrap h2 {
+	margin-bottom: 0 !important;
+	margin-top: 0;
+	padding: 8px 12px;
+	border-bottom: 1px solid #ccd0d4;
+}
+.is-registered .dashicons {
+	color: green;
+}
+.not-registered .dashicons {
+	color: red;
+}
+#framework-registration-wrap .library-icon-key {
+	font-size: 30px;
+	width: 30px;
+	height: 30px;
+}
+.framework-dash-container .community-events-footer {
+	box-sizing: border-box;
+	display: flex;
+	align-items: flex-end;
+	justify-content: space-between;
+	width: 100%;
+}
+.framework-support-status {
+	float: right;
+	color: #444;
+}
+.framework-support-status span {
+	font-weight: bold;
+	font-size: 14px;
+	line-height: 30px
+}
+.framework-support-status-expiring span {
+	color: orange;
+}
+.framework-support-status-active span {
+	color: green;
+}
+.framework-support-status-expired span {
+	color: red;
+}
+.framework-support-status .button {
+	margin: 0 5px;
+}
+#framework-registration-wrap .notice-warning.settings-error {
+	margin-bottom: 20px;
+}
+#framework-registration-wrap .notice-warning.settings-error strong > span {
+	display: block;
+	margin: 0.5em 0 0.5em 0;
+	clear: both;
+}
